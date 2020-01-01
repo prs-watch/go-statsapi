@@ -25,6 +25,8 @@ type Params struct {
 	SportsID     string
 	Hydrade      string
 	DivisionID   string
+	RosterType   string
+	Timecode     string
 }
 
 func httpGet(appType string, values url.Values) (body string, err error) {
@@ -39,7 +41,7 @@ func httpGet(appType string, values url.Values) (body string, err error) {
 	return string(bodyBuf), nil
 }
 
-// Attendance : Get attendance.
+// Attendance : get attendance.
 func Attendance(params *Params) (body string, err error) {
 	values := url.Values{}
 	values.Set("teamId", params.TeamID)
@@ -52,7 +54,7 @@ func Attendance(params *Params) (body string, err error) {
 	return httpGet("attendance", values)
 }
 
-// Awards : Get awards list.
+// Awards : get awards list.
 func Awards(params *Params) (body string, err error) {
 	values := url.Values{}
 	values.Set("sportdId", params.SportsID)
@@ -64,7 +66,7 @@ func Awards(params *Params) (body string, err error) {
 	return httpGet("awards", values)
 }
 
-// AwardRecips : Get each award recipients.
+// AwardRecips : get each award recipients.
 func AwardRecips(awardID string, params *Params) (body string, err error) {
 	var appType = "awards" + "/" + awardID + "/" + "recipients"
 
@@ -78,7 +80,7 @@ func AwardRecips(awardID string, params *Params) (body string, err error) {
 	return httpGet(appType, values)
 }
 
-// Divisions : Get division list.
+// Divisions : get division list.
 func Divisions(params *Params) (body string, err error) {
 	values := url.Values{}
 	values.Set("divisionId", params.DivisionID)
@@ -86,4 +88,29 @@ func Divisions(params *Params) (body string, err error) {
 	values.Set("sportsId", params.SportsID)
 
 	return httpGet("divisions", values)
+}
+
+// Roster : get team roster.
+func Roster(teamID string, params *Params) (body string, err error) {
+	var appType = "teams" + "/" + teamID + "/" + "roster"
+
+	values := url.Values{}
+	values.Set("rosterType", params.RosterType)
+	values.Set("season", params.Season)
+	values.Set("date", params.Date)
+	values.Set("hydrade", params.Hydrade)
+	values.Set("field", params.Fields)
+
+	return httpGet(appType, values)
+}
+
+// BoxScore : get specific game's boxscore.
+func BoxScore(gamePK string, params *Params) (body string, err error) {
+	var appType = "game" + "/" + gamePK + "/" + "boxscore"
+
+	values := url.Values{}
+	values.Set("timecode", params.Timecode)
+	values.Set("field", params.Fields)
+
+	return httpGet(appType, values)
 }
