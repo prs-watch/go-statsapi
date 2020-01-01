@@ -1,0 +1,65 @@
+{
+  "copyright" : "Copyright 2020 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "records" : [ {
+    "openingsTotal" : 162,
+    "openingsTotalAway" : 81,
+    "openingsTotalHome" : 81,
+    "openingsTotalLost" : 0,
+    "openingsTotalYtd" : 81,
+    "gamesTotal" : 162,
+    "gamesAwayTotal" : 81,
+    "gamesHomeTotal" : 81,
+    "year" : "2019",
+    "attendanceAverageAway" : 28959,
+    "attendanceAverageHome" : 33672,
+    "attendanceAverageYtd" : 31315,
+    "attendanceHigh" : 44722,
+    "attendanceHighDate" : "2019-06-22T00:00:00",
+    "attendanceHighGame" : {
+      "gamePk" : 567097,
+      "link" : "/api/v1/game/567097/feed/live",
+      "content" : {
+        "link" : "/api/v1/game/567097/content"
+      },
+      "dayNight" : "day"
+    },
+    "attendanceLow" : 23243,
+    "attendanceLowDate" : "2019-09-11T00:00:00",
+    "attendanceLowGame" : {
+      "gamePk" : 567133,
+      "link" : "/api/v1/game/567133/feed/live",
+      "content" : {
+        "link" : "/api/v1/game/567133/content"
+      },
+      "dayNight" : "day"
+    },
+    "attendanceOpeningAverage" : 33672,
+    "attendanceTotal" : 5073071,
+    "attendanceTotalAway" : 2345650,
+    "attendanceTotalHome" : 2727421,
+    "attendanceTotalYtd" : 5073071,
+    "gameType" : {
+      "id" : "R",
+      "description" : "Regular Season"
+    },
+    "team" : {
+      "id" : 143,
+      "name" : "Philadelphia Phillies",
+      "link" : "/api/v1/teams/143"
+    }
+  } ],
+  "aggregateTotals" : {
+    "openingsTotalAway" : 81,
+    "openingsTotalHome" : 81,
+    "openingsTotalLost" : 0,
+    "openingsTotalYtd" : 162,
+    "attendanceAverageAway" : 28958,
+    "attendanceAverageHome" : 33671,
+    "attendanceAverageYtd" : 31315,
+    "attendanceHigh" : 44722,
+    "attendanceHighDate" : "2019-06-22T00:00:00",
+    "attendanceTotal" : 5073071,
+    "attendanceTotalAway" : 2345650,
+    "attendanceTotalHome" : 2727421
+  }
+}

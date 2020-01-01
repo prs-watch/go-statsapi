@@ -1,0 +1,1032 @@
+{
+  "copyright" : "Copyright 2020 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "divisions" : [ {
+    "id" : 201,
+    "name" : "American League East",
+    "nameShort" : "AL East",
+    "link" : "/api/v1/divisions/201",
+    "abbreviation" : "ALE",
+    "league" : {
+      "id" : 103,
+      "link" : "/api/v1/league/103"
+    },
+    "sport" : {
+      "id" : 1,
+      "link" : "/api/v1/sports/1"
+    },
+    "hasWildcard" : false
+  }, {
+    "id" : 202,
+    "name" : "American League Central",
+    "nameShort" : "AL Central",
+    "link" : "/api/v1/divisions/202",
+    "abbreviation" : "ALC",
+    "league" : {
+      "id" : 103,
+      "link" : "/api/v1/league/103"
+    },
+    "sport" : {
+      "id" : 1,
+      "link" : "/api/v1/sports/1"
+    },
+    "hasWildcard" : false
+  }, {
+    "id" : 200,
+    "name" : "American League West",
+    "nameShort" : "AL West",
+    "link" : "/api/v1/divisions/200",
+    "abbreviation" : "ALW",
+    "league" : {
+      "id" : 103,
+      "link" : "/api/v1/league/103"
+    },
+    "sport" : {
+      "id" : 1,
+      "link" : "/api/v1/sports/1"
+    },
+    "hasWildcard" : false
+  }, {
+    "id" : 204,
+    "name" : "National League East",
+    "nameShort" : "NL East",
+    "link" : "/api/v1/divisions/204",
+    "abbreviation" : "NLE",
+    "league" : {
+      "id" : 104,
+      "link" : "/api/v1/league/104"
+    },
+    "sport" : {
+      "id" : 1,
+      "link" : "/api/v1/sports/1"
+    },
+    "hasWildcard" : false
+  }, {
+    "id" : 205,
+    "name" : "National League Central",
+    "nameShort" : "NL Central",
+    "link" : "/api/v1/divisions/205",
+    "abbreviation" : "NLC",
+    "league" : {
+      "id" : 104,
+      "link" : "/api/v1/league/104"
+    },
+    "sport" : {
+      "id" : 1,
+      "link" : "/api/v1/sports/1"
+    },
+    "hasWildcard" : false
+  }, {
+    "id" : 203,
+    "name" : "National League West",
+    "nameShort" : "NL West",
+    "link" : "/api/v1/divisions/203",
+    "abbreviation" : "NLW",
+    "league" : {
+      "id" : 104,
+      "link" : "/api/v1/league/104"
+    },
+    "sport" : {
+      "id" : 1,
+      "link" : "/api/v1/sports/1"
+    },
+    "hasWildcard" : false
+  }, {
+    "id" : 219,
+    "name" : "International League North",
+    "nameShort" : "INT North",
+    "link" : "/api/v1/divisions/219",
+    "abbreviation" : "INTN",
+    "league" : {
+      "id" : 117,
+      "link" : "/api/v1/league/117"
+    },
+    "sport" : {
+      "id" : 11,
+      "link" : "/api/v1/sports/11"
+    },
+    "hasWildcard" : false
+  }, {
+    "id" : 220,
+    "name" : "International League South",
+    "nameShort" : "INT South",
+    "link" : "/api/v1/divisions/220",
+    "abbreviation" : "INTS",
+    "league" : {
+      "id" : 117,
+      "link" : "/api/v1/league/117"
+    },
+    "sport" : {
+      "id" : 11,
+      "link" : "/api/v1/sports/11"
+    },
+    "hasWildcard" : false
+  }, {
+    "id" : 221,
+    "name" : "International League West",
+    "nameShort" : "INT West",
+    "link" : "/api/v1/divisions/221",
+    "abbreviation" : "INTW",
+    "league" : {
+      "id" : 117,
+      "link" : "/api/v1/league/117"
+    },
+    "sport" : {
+      "id" : 11,
+      "link" : "/api/v1/sports/11"
+    },
+    "hasWildcard" : false
+  }, {
+    "id" : 232,
+    "name" : "Pacific Coast League American Northern",
+    "nameShort" : "PCL Amer. Northern",
+    "link" : "/api/v1/divisions/232",
+    "abbreviation" : "PCLAN",
+    "league" : {
+      "id" : 112,
+      "link" : "/api/v1/league/112"
+    },
+    "sport" : {
+      "id" : 11,
+      "link" : "/api/v1/sports/11"
+    },
+    "hasWildcard" : false
+  }, {
+    "id" : 234,
+    "name" : "Pacific Coast League American Southern",
+    "nameShort" : "PCL Amer. Southern",
+    "link" : "/api/v1/divisions/234",
+    "abbreviation" : "PCLAS",
+    "league" : {
+      "id" : 112,
+      "link" : "/api/v1/league/112"
+    },
+    "sport" : {
+      "id" : 11,
+      "link" : "/api/v1/sports/11"
+    },
+    "hasWildcard" : false
+  }, {
+    "id" : 231,
+    "name" : "Pacific Coast League Pacific Northern",
+    "nameShort" : "PCL Pacific Northern",
+    "link" : "/api/v1/divisions/231",
+    "abbreviation" : "PCLPN",
+    "league" : {
+      "id" : 112,
+      "link" : "/api/v1/league/112"
+    },
+    "sport" : {
+      "id" : 11,
+      "link" : "/api/v1/sports/11"
+    },
+    "hasWildcard" : false
+  }, {
+    "id" : 233,
+    "name" : "Pacific Coast League Pacific Southern",
+    "nameShort" : "PCL Pacific Southern",
+    "link" : "/api/v1/divisions/233",
+    "abbreviation" : "PCLPS",
+    "league" : {
+      "id" : 112,
+      "link" : "/api/v1/league/112"
+    },
+    "sport" : {
+      "id" : 11,
+      "link" : "/api/v1/sports/11"
+    },
+    "hasWildcard" : false
+  }, {
+    "id" : 222,
+    "name" : "Mexican League Norte",
+    "nameShort" : "MEX Norte",
+    "link" : "/api/v1/divisions/222",
+    "abbreviation" : "MEXN",
+    "league" : {
+      "id" : 125,
+      "link" : "/api/v1/league/125"
+    },
+    "hasWildcard" : false
+  }, {
+    "id" : 223,
+    "name" : "Mexican League Sur",
+    "nameShort" : "MEX Sur",
+    "link" : "/api/v1/divisions/223",
+    "abbreviation" : "MEXS",
+    "league" : {
+      "id" : 125,
+      "link" : "/api/v1/league/125"
+    },
+    "hasWildcard" : false
+  }, {
+    "id" : 212,
+    "name" : "Eastern League Eastern",
+    "nameShort" : "EAS Eastern",
+    "link" : "/api/v1/divisions/212",
+    "abbreviation" : "EASE",
+    "league" : {
+      "id" : 113,
+      "link" : "/api/v1/league/113"
+    },
+    "sport" : {
+      "id" : 12,
+      "link" : "/api/v1/sports/12"
+    },
+    "hasWildcard" : false
+  }, {
+    "id" : 213,
+    "name" : "Eastern League Western",
+    "nameShort" : "EAS Western",
+    "link" : "/api/v1/divisions/213",
+    "abbreviation" : "EASW",
+    "league" : {
+      "id" : 113,
+      "link" : "/api/v1/league/113"
+    },
+    "sport" : {
+      "id" : 12,
+      "link" : "/api/v1/sports/12"
+    },
+    "hasWildcard" : false
+  }, {
+    "id" : 239,
+    "name" : "Southern League North",
+    "nameShort" : "SOU North",
+    "link" : "/api/v1/divisions/239",
+    "abbreviation" : "SOUN",
+    "league" : {
+      "id" : 111,
+      "link" : "/api/v1/league/111"
+    },
+    "sport" : {
+      "id" : 12,
+      "link" : "/api/v1/sports/12"
+    },
+    "hasWildcard" : true
+  }, {
+    "id" : 240,
+    "name" : "Southern League South",
+    "nameShort" : "SOU South",
+    "link" : "/api/v1/divisions/240",
+    "abbreviation" : "SOUS",
+    "league" : {
+      "id" : 111,
+      "link" : "/api/v1/league/111"
+    },
+    "sport" : {
+      "id" : 12,
+      "link" : "/api/v1/sports/12"
+    },
+    "hasWildcard" : true
+  }, {
+    "id" : 241,
+    "name" : "Texas League North",
+    "nameShort" : "TEX North",
+    "link" : "/api/v1/divisions/241",
+    "abbreviation" : "TEXN",
+    "league" : {
+      "id" : 109,
+      "link" : "/api/v1/league/109"
+    },
+    "sport" : {
+      "id" : 12,
+      "link" : "/api/v1/sports/12"
+    },
+    "hasWildcard" : false
+  }, {
+    "id" : 242,
+    "name" : "Texas League South",
+    "nameShort" : "TEX South",
+    "link" : "/api/v1/divisions/242",
+    "abbreviation" : "TEXS",
+    "league" : {
+      "id" : 109,
+      "link" : "/api/v1/league/109"
+    },
+    "sport" : {
+      "id" : 12,
+      "link" : "/api/v1/sports/12"
+    },
+    "hasWildcard" : false
+  }, {
+    "id" : 208,
+    "name" : "California League North",
+    "nameShort" : "CAL North",
+    "link" : "/api/v1/divisions/208",
+    "abbreviation" : "CALN",
+    "league" : {
+      "id" : 110,
+      "link" : "/api/v1/league/110"
+    },
+    "sport" : {
+      "id" : 13,
+      "link" : "/api/v1/sports/13"
+    },
+    "hasWildcard" : true
+  }, {
+    "id" : 209,
+    "name" : "California League South",
+    "nameShort" : "CAL South",
+    "link" : "/api/v1/divisions/209",
+    "abbreviation" : "CALS",
+    "league" : {
+      "id" : 110,
+      "link" : "/api/v1/league/110"
+    },
+    "sport" : {
+      "id" : 13,
+      "link" : "/api/v1/sports/13"
+    },
+    "hasWildcard" : true
+  }, {
+    "id" : 210,
+    "name" : "Carolina League Northern",
+    "nameShort" : "CAR Northern",
+    "link" : "/api/v1/divisions/210",
+    "abbreviation" : "CARN",
+    "league" : {
+      "id" : 122,
+      "link" : "/api/v1/league/122"
+    },
+    "sport" : {
+      "id" : 13,
+      "link" : "/api/v1/sports/13"
+    },
+    "hasWildcard" : false
+  }, {
+    "id" : 211,
+    "name" : "Carolina League Southern",
+    "nameShort" : "CAR Southern",
+    "link" : "/api/v1/divisions/211",
+    "abbreviation" : "CARS",
+    "league" : {
+      "id" : 122,
+      "link" : "/api/v1/league/122"
+    },
+    "sport" : {
+      "id" : 13,
+      "link" : "/api/v1/sports/13"
+    },
+    "hasWildcard" : false
+  }, {
+    "id" : 214,
+    "name" : "Florida State League North",
+    "nameShort" : "FSL North",
+    "link" : "/api/v1/divisions/214",
+    "abbreviation" : "FSLN",
+    "league" : {
+      "id" : 123,
+      "link" : "/api/v1/league/123"
+    },
+    "sport" : {
+      "id" : 13,
+      "link" : "/api/v1/sports/13"
+    },
+    "hasWildcard" : false
+  }, {
+    "id" : 215,
+    "name" : "Florida State League South",
+    "nameShort" : "FSL South",
+    "link" : "/api/v1/divisions/215",
+    "abbreviation" : "FSLS",
+    "league" : {
+      "id" : 123,
+      "link" : "/api/v1/league/123"
+    },
+    "sport" : {
+      "id" : 13,
+      "link" : "/api/v1/sports/13"
+    },
+    "hasWildcard" : false
+  }, {
+    "id" : 224,
+    "name" : "Midwest League Eastern",
+    "nameShort" : "MID Eastern",
+    "link" : "/api/v1/divisions/224",
+    "abbreviation" : "MIDE",
+    "league" : {
+      "id" : 118,
+      "link" : "/api/v1/league/118"
+    },
+    "sport" : {
+      "id" : 14,
+      "link" : "/api/v1/sports/14"
+    },
+    "hasWildcard" : true
+  }, {
+    "id" : 225,
+    "name" : "Midwest League Western",
+    "nameShort" : "MID Western",
+    "link" : "/api/v1/divisions/225",
+    "abbreviation" : "MIDW",
+    "league" : {
+      "id" : 118,
+      "link" : "/api/v1/league/118"
+    },
+    "sport" : {
+      "id" : 14,
+      "link" : "/api/v1/sports/14"
+    },
+    "hasWildcard" : true
+  }, {
+    "id" : 237,
+    "name" : "South Atlantic League Northern",
+    "nameShort" : "SAL Northern",
+    "link" : "/api/v1/divisions/237",
+    "abbreviation" : "SALN",
+    "league" : {
+      "id" : 116,
+      "link" : "/api/v1/league/116"
+    },
+    "sport" : {
+      "id" : 14,
+      "link" : "/api/v1/sports/14"
+    },
+    "hasWildcard" : false
+  }, {
+    "id" : 238,
+    "name" : "South Atlantic League Southern",
+    "nameShort" : "SAL Southern",
+    "link" : "/api/v1/divisions/238",
+    "abbreviation" : "SALS",
+    "league" : {
+      "id" : 116,
+      "link" : "/api/v1/league/116"
+    },
+    "sport" : {
+      "id" : 14,
+      "link" : "/api/v1/sports/14"
+    },
+    "hasWildcard" : false
+  }, {
+    "id" : 228,
+    "name" : "New York-Penn League McNamara",
+    "nameShort" : "NYP McNamara",
+    "link" : "/api/v1/divisions/228",
+    "abbreviation" : "NYPM",
+    "league" : {
+      "id" : 127,
+      "link" : "/api/v1/league/127"
+    },
+    "sport" : {
+      "id" : 15,
+      "link" : "/api/v1/sports/15"
+    },
+    "hasWildcard" : false
+  }, {
+    "id" : 229,
+    "name" : "New York-Penn League Pinckney",
+    "nameShort" : "NYP Pinckney",
+    "link" : "/api/v1/divisions/229",
+    "abbreviation" : "NYPP",
+    "league" : {
+      "id" : 127,
+      "link" : "/api/v1/league/127"
+    },
+    "sport" : {
+      "id" : 15,
+      "link" : "/api/v1/sports/15"
+    },
+    "hasWildcard" : false
+  }, {
+    "id" : 230,
+    "name" : "New York-Penn League Stedler",
+    "nameShort" : "NYP Stedler",
+    "link" : "/api/v1/divisions/230",
+    "abbreviation" : "NYPS",
+    "league" : {
+      "id" : 127,
+      "link" : "/api/v1/league/127"
+    },
+    "sport" : {
+      "id" : 15,
+      "link" : "/api/v1/sports/15"
+    },
+    "hasWildcard" : false
+  }, {
+    "id" : 226,
+    "name" : "Northwest League North",
+    "nameShort" : "NWL North",
+    "link" : "/api/v1/divisions/226",
+    "abbreviation" : "NWLN",
+    "league" : {
+      "id" : 126,
+      "link" : "/api/v1/league/126"
+    },
+    "sport" : {
+      "id" : 15,
+      "link" : "/api/v1/sports/15"
+    },
+    "hasWildcard" : false
+  }, {
+    "id" : 227,
+    "name" : "Northwest League South",
+    "nameShort" : "NWL South",
+    "link" : "/api/v1/divisions/227",
+    "abbreviation" : "NWLS",
+    "league" : {
+      "id" : 126,
+      "link" : "/api/v1/league/126"
+    },
+    "sport" : {
+      "id" : 15,
+      "link" : "/api/v1/sports/15"
+    },
+    "hasWildcard" : false
+  }, {
+    "id" : 206,
+    "name" : "Appalachian League East",
+    "nameShort" : "APP East",
+    "link" : "/api/v1/divisions/206",
+    "abbreviation" : "APPE",
+    "league" : {
+      "id" : 120,
+      "link" : "/api/v1/league/120"
+    },
+    "sport" : {
+      "id" : 5442,
+      "link" : "/api/v1/sports/5442"
+    },
+    "hasWildcard" : false
+  }, {
+    "id" : 207,
+    "name" : "Appalachian League West",
+    "nameShort" : "APP West",
+    "link" : "/api/v1/divisions/207",
+    "abbreviation" : "APPW",
+    "league" : {
+      "id" : 120,
+      "link" : "/api/v1/league/120"
+    },
+    "sport" : {
+      "id" : 5442,
+      "link" : "/api/v1/sports/5442"
+    },
+    "hasWildcard" : false
+  }, {
+    "id" : 235,
+    "name" : "Pioneer League North",
+    "nameShort" : "PIO North",
+    "link" : "/api/v1/divisions/235",
+    "abbreviation" : "PION",
+    "league" : {
+      "id" : 128,
+      "link" : "/api/v1/league/128"
+    },
+    "sport" : {
+      "id" : 5442,
+      "link" : "/api/v1/sports/5442"
+    },
+    "hasWildcard" : false
+  }, {
+    "id" : 236,
+    "name" : "Pioneer League South",
+    "nameShort" : "PIO South",
+    "link" : "/api/v1/divisions/236",
+    "abbreviation" : "PIOS",
+    "league" : {
+      "id" : 128,
+      "link" : "/api/v1/league/128"
+    },
+    "sport" : {
+      "id" : 5442,
+      "link" : "/api/v1/sports/5442"
+    },
+    "hasWildcard" : true
+  }, {
+    "id" : 560,
+    "name" : "Arizona League East",
+    "nameShort" : "AZL East",
+    "link" : "/api/v1/divisions/560",
+    "abbreviation" : "AZLE",
+    "league" : {
+      "id" : 121,
+      "link" : "/api/v1/league/121"
+    },
+    "sport" : {
+      "id" : 16,
+      "link" : "/api/v1/sports/16"
+    },
+    "hasWildcard" : false
+  }, {
+    "id" : 570,
+    "name" : "Arizona League Central",
+    "nameShort" : "AZL Central",
+    "link" : "/api/v1/divisions/570",
+    "abbreviation" : "AZLC",
+    "league" : {
+      "id" : 121,
+      "link" : "/api/v1/league/121"
+    },
+    "sport" : {
+      "id" : 16,
+      "link" : "/api/v1/sports/16"
+    },
+    "hasWildcard" : false
+  }, {
+    "id" : 561,
+    "name" : "Arizona League West",
+    "nameShort" : "AZL West",
+    "link" : "/api/v1/divisions/561",
+    "abbreviation" : "AZLW",
+    "league" : {
+      "id" : 121,
+      "link" : "/api/v1/league/121"
+    },
+    "sport" : {
+      "id" : 16,
+      "link" : "/api/v1/sports/16"
+    },
+    "hasWildcard" : false
+  }, {
+    "id" : 216,
+    "name" : "Gulf Coast League East",
+    "nameShort" : "GCL East",
+    "link" : "/api/v1/divisions/216",
+    "abbreviation" : "GCLE",
+    "league" : {
+      "id" : 124,
+      "link" : "/api/v1/league/124"
+    },
+    "sport" : {
+      "id" : 16,
+      "link" : "/api/v1/sports/16"
+    },
+    "hasWildcard" : false
+  }, {
+    "id" : 217,
+    "name" : "Gulf Coast League North",
+    "nameShort" : "GCL North",
+    "link" : "/api/v1/divisions/217",
+    "abbreviation" : "GCLN",
+    "league" : {
+      "id" : 124,
+      "link" : "/api/v1/league/124"
+    },
+    "sport" : {
+      "id" : 16,
+      "link" : "/api/v1/sports/16"
+    },
+    "hasWildcard" : false
+  }, {
+    "id" : 218,
+    "name" : "Gulf Coast League South",
+    "nameShort" : "GCL South",
+    "link" : "/api/v1/divisions/218",
+    "abbreviation" : "GCLS",
+    "league" : {
+      "id" : 124,
+      "link" : "/api/v1/league/124"
+    },
+    "sport" : {
+      "id" : 16,
+      "link" : "/api/v1/sports/16"
+    },
+    "hasWildcard" : false
+  }, {
+    "id" : 247,
+    "name" : "Dominican Summer League North",
+    "nameShort" : "DSL North",
+    "link" : "/api/v1/divisions/247",
+    "abbreviation" : "DSLN",
+    "league" : {
+      "id" : 130,
+      "link" : "/api/v1/league/130"
+    },
+    "sport" : {
+      "id" : 16,
+      "link" : "/api/v1/sports/16"
+    },
+    "hasWildcard" : false
+  }, {
+    "id" : 248,
+    "name" : "Dominican Summer League South",
+    "nameShort" : "DSL South",
+    "link" : "/api/v1/divisions/248",
+    "abbreviation" : "DSLS",
+    "league" : {
+      "id" : 130,
+      "link" : "/api/v1/league/130"
+    },
+    "sport" : {
+      "id" : 16,
+      "link" : "/api/v1/sports/16"
+    },
+    "hasWildcard" : false
+  }, {
+    "id" : 249,
+    "name" : "Dominican Summer League Northwest",
+    "nameShort" : "DSL Northwest",
+    "link" : "/api/v1/divisions/249",
+    "abbreviation" : "DSLNW",
+    "league" : {
+      "id" : 130,
+      "link" : "/api/v1/league/130"
+    },
+    "sport" : {
+      "id" : 16,
+      "link" : "/api/v1/sports/16"
+    },
+    "hasWildcard" : false
+  }, {
+    "id" : 250,
+    "name" : "Dominican Summer League Baseball City",
+    "nameShort" : "DSL Baseball City",
+    "link" : "/api/v1/divisions/250",
+    "abbreviation" : "DSLBC",
+    "league" : {
+      "id" : 130,
+      "link" : "/api/v1/league/130"
+    },
+    "sport" : {
+      "id" : 16,
+      "link" : "/api/v1/sports/16"
+    },
+    "hasWildcard" : false
+  }, {
+    "id" : 246,
+    "name" : "Dominican Summer League San Pedro",
+    "nameShort" : "DSL San Pedro",
+    "link" : "/api/v1/divisions/246",
+    "abbreviation" : "DSLSP",
+    "league" : {
+      "id" : 130,
+      "link" : "/api/v1/league/130"
+    },
+    "sport" : {
+      "id" : 16,
+      "link" : "/api/v1/sports/16"
+    },
+    "hasWildcard" : false
+  }, {
+    "id" : 401,
+    "name" : "Dominican Summer League Northeast",
+    "nameShort" : "DSL Northeast",
+    "link" : "/api/v1/divisions/401",
+    "abbreviation" : "DSLNE",
+    "league" : {
+      "id" : 130,
+      "link" : "/api/v1/league/130"
+    },
+    "sport" : {
+      "id" : 16,
+      "link" : "/api/v1/sports/16"
+    },
+    "hasWildcard" : false
+  }, {
+    "id" : 251,
+    "name" : "Arizona Fall League East",
+    "nameShort" : "AFL East",
+    "link" : "/api/v1/divisions/251",
+    "abbreviation" : "AFLE",
+    "league" : {
+      "id" : 119,
+      "link" : "/api/v1/league/119"
+    },
+    "sport" : {
+      "id" : 17,
+      "link" : "/api/v1/sports/17"
+    },
+    "hasWildcard" : false
+  }, {
+    "id" : 252,
+    "name" : "Arizona Fall League West",
+    "nameShort" : "AFL West",
+    "link" : "/api/v1/divisions/252",
+    "abbreviation" : "AFLW",
+    "league" : {
+      "id" : 119,
+      "link" : "/api/v1/league/119"
+    },
+    "sport" : {
+      "id" : 17,
+      "link" : "/api/v1/sports/17"
+    },
+    "hasWildcard" : false
+  }, {
+    "id" : 480,
+    "name" : "Arizona Fall League LMP",
+    "nameShort" : "AFL LMP Teams",
+    "link" : "/api/v1/divisions/480",
+    "abbreviation" : "AFLL",
+    "league" : {
+      "id" : 119,
+      "link" : "/api/v1/league/119"
+    },
+    "sport" : {
+      "id" : 17,
+      "link" : "/api/v1/sports/17"
+    },
+    "hasWildcard" : false
+  }, {
+    "id" : 5418,
+    "name" : "Australian Baseball League Northeast",
+    "nameShort" : "Australian Lg. NE",
+    "link" : "/api/v1/divisions/5418",
+    "abbreviation" : "ABL NE",
+    "league" : {
+      "id" : 595,
+      "link" : "/api/v1/league/595"
+    },
+    "sport" : {
+      "id" : 17,
+      "link" : "/api/v1/sports/17"
+    },
+    "hasWildcard" : false
+  }, {
+    "id" : 5419,
+    "name" : "Australian Baseball League Southwest",
+    "nameShort" : "Australian Lg. SW",
+    "link" : "/api/v1/divisions/5419",
+    "abbreviation" : "ABL SW",
+    "league" : {
+      "id" : 595,
+      "link" : "/api/v1/league/595"
+    },
+    "sport" : {
+      "id" : 17,
+      "link" : "/api/v1/sports/17"
+
+    },
+    "hasWildcard" : false
+  }, {
+    "id" : 5436,
+    "name" : "Liberty Division",
+    "nameShort" : "Liberty",
+    "link" : "/api/v1/divisions/5436",
+    "abbreviation" : "ALPBL",
+    "league" : {
+      "id" : 436,
+      "link" : "/api/v1/league/436"
+    },
+    "sport" : {
+      "id" : 23,
+      "link" : "/api/v1/sports/23"
+    },
+    "hasWildcard" : false
+  }, {
+    "id" : 5437,
+    "name" : "Freedom Division",
+    "nameShort" : "Freedom",
+    "link" : "/api/v1/divisions/5437",
+    "abbreviation" : "ALPBF",
+    "league" : {
+      "id" : 436,
+      "link" : "/api/v1/league/436"
+    },
+    "sport" : {
+      "id" : 23,
+      "link" : "/api/v1/sports/23"
+    },
+    "hasWildcard" : true
+  }, {
+    "id" : 310,
+    "name" : "Pool A",
+    "nameShort" : "Pool A",
+    "link" : "/api/v1/divisions/310",
+    "abbreviation" : "Pool A",
+    "league" : {
+      "id" : 160,
+      "link" : "/api/v1/league/160"
+    },
+    "sport" : {
+      "id" : 51,
+      "link" : "/api/v1/sports/51"
+    },
+    "hasWildcard" : false
+  }, {
+    "id" : 311,
+    "name" : "Pool B",
+    "nameShort" : "Pool B",
+    "link" : "/api/v1/divisions/311",
+    "abbreviation" : "Pool B",
+    "league" : {
+      "id" : 160,
+      "link" : "/api/v1/league/160"
+    },
+    "sport" : {
+      "id" : 51,
+      "link" : "/api/v1/sports/51"
+    },
+    "hasWildcard" : false
+  }, {
+    "id" : 312,
+    "name" : "Pool C",
+    "nameShort" : "Pool C",
+    "link" : "/api/v1/divisions/312",
+    "abbreviation" : "Pool C",
+    "league" : {
+      "id" : 160,
+      "link" : "/api/v1/league/160"
+    },
+    "sport" : {
+      "id" : 51,
+      "link" : "/api/v1/sports/51"
+    },
+    "hasWildcard" : false
+  }, {
+    "id" : 313,
+    "name" : "Pool D",
+    "nameShort" : "Pool D",
+    "link" : "/api/v1/divisions/313",
+    "abbreviation" : "Pool D",
+    "league" : {
+      "id" : 160,
+      "link" : "/api/v1/league/160"
+    },
+    "sport" : {
+      "id" : 51,
+      "link" : "/api/v1/sports/51"
+    },
+    "hasWildcard" : false
+  }, {
+    "id" : 314,
+    "name" : "Pool E",
+    "nameShort" : "Pool E",
+    "link" : "/api/v1/divisions/314",
+    "abbreviation" : "Pool E",
+    "league" : {
+      "id" : 160,
+      "link" : "/api/v1/league/160"
+    },
+    "sport" : {
+      "id" : 51,
+      "link" : "/api/v1/sports/51"
+    },
+    "hasWildcard" : false
+  }, {
+    "id" : 315,
+    "name" : "Pool F",
+    "nameShort" : "Pool F",
+    "link" : "/api/v1/divisions/315",
+    "abbreviation" : "Pool F",
+    "league" : {
+      "id" : 160,
+      "link" : "/api/v1/league/160"
+    },
+    "sport" : {
+      "id" : 51,
+      "link" : "/api/v1/sports/51"
+    },
+    "hasWildcard" : false
+  }, {
+    "id" : 316,
+    "name" : "WBC Qualifier 1",
+    "nameShort" : "WBC Qualifier 1",
+    "link" : "/api/v1/divisions/316",
+    "abbreviation" : "WBC Q1",
+    "league" : {
+      "id" : 159,
+      "link" : "/api/v1/league/159"
+    },
+    "sport" : {
+      "id" : 51,
+      "link" : "/api/v1/sports/51"
+    },
+    "hasWildcard" : false
+  }, {
+    "id" : 317,
+    "name" : "WBC Qualifier 2",
+    "nameShort" : "WBC Qualifier 2",
+    "link" : "/api/v1/divisions/317",
+    "abbreviation" : "WBC Q2",
+    "league" : {
+      "id" : 159,
+      "link" : "/api/v1/league/159"
+    },
+    "sport" : {
+      "id" : 51,
+      "link" : "/api/v1/sports/51"
+    },
+    "hasWildcard" : false
+  }, {
+    "id" : 318,
+    "name" : "WBC Qualifier 3",
+    "nameShort" : "WBC Qualifier 3",
+    "link" : "/api/v1/divisions/318",
+    "abbreviation" : "WBC Q3",
+    "league" : {
+      "id" : 159,
+      "link" : "/api/v1/league/159"
+    },
+    "sport" : {
+      "id" : 51,
+      "link" : "/api/v1/sports/51"
+    },
+    "hasWildcard" : false
+  }, {
+    "id" : 319,
+    "name" : "WBC Qualifier 4",
+    "nameShort" : "WBC Qualifier 4",
+    "link" : "/api/v1/divisions/319",
+    "abbreviation" : "WBC Q4",
+    "league" : {
+      "id" : 159,
+      "link" : "/api/v1/league/159"
+    },
+    "sport" : {
+      "id" : 51,
+      "link" : "/api/v1/sports/51"
+    },
+    "hasWildcard" : false
+  } ]
+}

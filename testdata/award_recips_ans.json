@@ -1,0 +1,133 @@
+{
+  "copyright" : "Copyright 2020 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "awards" : [ {
+    "id" : "MLBHOF",
+    "name" : "Hall Of Fame",
+    "date" : "2019-07-21",
+    "season" : "2019",
+    "team" : {
+      "id" : 145,
+      "link" : "/api/v1/teams/145"
+    },
+    "player" : {
+      "id" : 110456,
+      "link" : "/api/v1/people/110456",
+      "primaryPosition" : {
+        "code" : "10",
+        "name" : "Designated Hitter",
+        "type" : "Hitter",
+        "abbreviation" : "DH"
+      },
+      "nameFirstLast" : "Harold Baines"
+    },
+    "notes" : "Veterans Committee Inductee"
+  }, {
+    "id" : "MLBHOF",
+    "name" : "Hall Of Fame",
+    "date" : "2019-07-21",
+    "season" : "2019",
+    "team" : {
+      "id" : 112,
+      "link" : "/api/v1/teams/112"
+    },
+    "player" : {
+      "id" : 122426,
+      "link" : "/api/v1/people/122426",
+      "primaryPosition" : {
+        "code" : "1",
+        "name" : "Pitcher",
+        "type" : "Pitcher",
+        "abbreviation" : "P"
+      },
+      "nameFirstLast" : "Lee Smith"
+    },
+    "notes" : "Veterans Committee Inductee"
+  }, {
+    "id" : "MLBHOF",
+    "name" : "Hall Of Fame",
+    "date" : "2019-01-22",
+    "season" : "2019",
+    "team" : {
+      "id" : 136,
+      "link" : "/api/v1/teams/136"
+    },
+    "player" : {
+      "id" : 118365,
+      "link" : "/api/v1/people/118365",
+      "primaryPosition" : {
+        "code" : "10",
+        "name" : "Designated Hitter",
+        "type" : "Hitter",
+        "abbreviation" : "DH"
+      },
+      "nameFirstLast" : "Edgar Martinez"
+    },
+    "votes" : 363
+  }, {
+    "id" : "MLBHOF",
+    "name" : "Hall Of Fame",
+    "date" : "2019-01-22",
+    "season" : "2019",
+    "team" : {
+      "id" : 147,
+      "link" : "/api/v1/teams/147"
+    },
+    "player" : {
+      "id" : 121250,
+      "link" : "/api/v1/people/121250",
+      "primaryPosition" : {
+        "code" : "1",
+        "name" : "Pitcher",
+        "type" : "Pitcher",
+        "abbreviation" : "P"
+      },
+      "nameFirstLast" : "Mariano Rivera"
+    },
+    "votes" : 425,
+    "notes" : "First unanimous inductee"
+  }, {
+    "id" : "MLBHOF",
+    "name" : "Hall Of Fame",
+    "date" : "2019-01-22",
+    "season" : "2019",
+    "team" : {
+      "id" : 14,
+      "link" : "/api/v1/teams/14"
+    },
+    "player" : {
+      "id" : 119608,
+      "link" : "/api/v1/people/119608",
+      "primaryPosition" : {
+        "code" : "1",
+        "name" : "Pitcher",
+        "type" : "Pitcher",
+        "abbreviation" : "P"
+      },
+      "nameFirstLast" : "Mike Mussina"
+    },
+    "votes" : 326,
+    "notes" : "No cap logo on plaque"
+  }, {
+    "id" : "MLBHOF",
+    "name" : "Hall Of Fame",
+    "date" : "2019-01-22",
+    "season" : "2019",
+    "team" : {
+      "id" : 14,
+      "link" : "/api/v1/teams/14"
+    },
+    "player" : {
+      "id" : 136880,
+      "link" : "/api/v1/people/136880",
+      "primaryPosition" : {
+        "code" : "1",
+        "name" : "Pitcher",
+        "type" : "Pitcher",
+        "abbreviation" : "P"
+      },
+      "nameFirstLast" : "Roy Halladay"
+    },
+    "votes" : 363,
+    "notes" : "No cap logo on plaque"
+  } ]
+}

@@ -1,0 +1,5006 @@
+{
+    "copyright" : "Copyright 2020 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+    "awards" : [ {
+      "id" : "MLBHOF",
+      "name" : "Hall Of Fame",
+      "description" : "Member of Hall of Fame",
+      "sortOrder" : 1,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "RETIREDUNI_108",
+      "name" : "Uniform number retired",
+      "sortOrder" : 4,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "RETIREDUNI_158",
+      "name" : "Uniform number retired",
+      "sortOrder" : 4,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "RETIREDUNI_110",
+      "name" : "Uniform number retired",
+      "sortOrder" : 4,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "RETIREDUNI_111",
+      "name" : "Uniform number retired",
+      "sortOrder" : 4,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "RETIREDUNI_112",
+      "name" : "Uniform number retired",
+      "sortOrder" : 4,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "RETIREDUNI_113",
+      "name" : "Uniform number retired",
+      "sortOrder" : 4,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "RETIREDUNI_114",
+      "name" : "Uniform number retired",
+      "sortOrder" : 4,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "RETIREDUNI_115",
+      "name" : "Uniform number retired",
+      "sortOrder" : 4,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "RETIREDUNI_116",
+      "name" : "Uniform number retired",
+      "sortOrder" : 4,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "RETIREDUNI_117",
+      "name" : "Uniform number retired",
+      "sortOrder" : 4,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "RETIREDUNI_118",
+      "name" : "Uniform number retired",
+      "sortOrder" : 4,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "RETIREDUNI_119",
+      "name" : "Uniform number retired",
+      "sortOrder" : 4,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "RETIREDUNI_120",
+      "name" : "Uniform number retired",
+      "sortOrder" : 4,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "RETIREDUNI_121",
+      "name" : "Uniform number retired",
+      "sortOrder" : 4,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "RETIREDUNI_133",
+      "name" : "Uniform number retired",
+      "sortOrder" : 4,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "RETIREDUNI_134",
+      "name" : "Uniform number retired",
+      "sortOrder" : 4,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "RETIREDUNI_135",
+      "name" : "Uniform number retired",
+      "sortOrder" : 4,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "RETIREDUNI_136",
+      "name" : "Uniform number retired",
+      "sortOrder" : 4,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "RETIREDUNI_137",
+      "name" : "Uniform number retired",
+      "sortOrder" : 4,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "RETIREDUNI_138",
+      "name" : "Uniform number retired",
+      "sortOrder" : 4,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "RETIREDUNI_139",
+      "name" : "Uniform number retired",
+      "sortOrder" : 4,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "RETIREDUNI_140",
+      "name" : "Uniform number retired",
+      "sortOrder" : 4,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "RETIREDUNI_141",
+      "name" : "Uniform number retired",
+      "sortOrder" : 4,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "RETIREDUNI_142",
+      "name" : "Uniform number retired",
+      "sortOrder" : 4,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "RETIREDUNI_143",
+      "name" : "Uniform number retired",
+      "sortOrder" : 4,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "RETIREDUNI_144",
+      "name" : "Uniform number retired",
+      "sortOrder" : 4,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "RETIREDUNI_145",
+      "name" : "Uniform number retired",
+      "sortOrder" : 4,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "RETIREDUNI_146",
+      "name" : "Uniform number retired",
+      "sortOrder" : 4,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "RETIREDUNI_147",
+      "name" : "Uniform number retired",
+      "sortOrder" : 4,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "RETIREDUNI_109",
+      "name" : "Uniform number retired",
+      "sortOrder" : 4,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "ALMVP",
+      "name" : "AL MVP",
+      "sortOrder" : 7,
+      "league" : {
+        "id" : 103,
+        "link" : "/api/v1/league/103"
+      }
+    }, {
+      "id" : "NLMVP",
+      "name" : "NL MVP",
+      "sortOrder" : 7,
+      "league" : {
+        "id" : 104,
+        "link" : "/api/v1/league/104"
+      }
+    }, {
+      "id" : "ALAWARD",
+      "name" : "The American League Award",
+      "sortOrder" : 8,
+      "league" : {
+        "id" : 103,
+        "link" : "/api/v1/league/103"
+      }
+    }, {
+      "id" : "ALCHALM",
+      "name" : "The Chalmers Award (AL)",
+      "sortOrder" : 8,
+      "league" : {
+        "id" : 103,
+        "link" : "/api/v1/league/103"
+      }
+    }, {
+      "id" : "NLCHALM",
+      "name" : "The Chalmers Award (NL)",
+      "sortOrder" : 8,
+      "league" : {
+        "id" : 104,
+        "link" : "/api/v1/league/104"
+      }
+    }, {
+      "id" : "NLAWARD",
+      "name" : "The National League Award",
+      "sortOrder" : 8,
+      "league" : {
+        "id" : 104,
+        "link" : "/api/v1/league/104"
+      }
+    }, {
+      "id" : "ALCY",
+      "name" : "AL Cy Young",
+      "sortOrder" : 11,
+      "league" : {
+        "id" : 103,
+        "link" : "/api/v1/league/103"
+      }
+    }, {
+      "id" : "MLBCY",
+      "name" : "MLB Cy Young",
+      "sortOrder" : 11,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "NLCY",
+      "name" : "NL Cy Young",
+      "sortOrder" : 11,
+      "league" : {
+        "id" : 104,
+        "link" : "/api/v1/league/104"
+      }
+    }, {
+      "id" : "ALROY",
+      "name" : "AL Rookie of the Year",
+      "sortOrder" : 14,
+      "league" : {
+        "id" : 103,
+        "link" : "/api/v1/league/103"
+      }
+    }, {
+      "id" : "MLBROY",
+      "name" : "MLB Rookie of the Year",
+      "sortOrder" : 14,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "NLROY",
+      "name" : "NL Rookie of the Year",
+      "sortOrder" : 14,
+      "league" : {
+        "id" : 104,
+        "link" : "/api/v1/league/104"
+      }
+    }, {
+      "id" : "WSMVP",
+      "name" : "World Series MVP",
+      "description" : "World Series MVP",
+      "sortOrder" : 17,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      },
+      "notes" : "World Series MVP"
+    }, {
+      "id" : "WSCHAMP",
+      "name" : "World Series Championship",
+      "description" : "players that won world series championships",
+      "sortOrder" : 18,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "WSCHAMPMGR",
+      "name" : "World Series Champion Manager",
+      "sortOrder" : 19,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "ALMOY",
+      "name" : "AL Manager of the Year",
+      "sortOrder" : 22,
+      "league" : {
+        "id" : 103,
+        "link" : "/api/v1/league/103"
+      }
+    }, {
+      "id" : "NLMOY",
+      "name" : "NL Manager of the Year",
+      "sortOrder" : 22,
+      "league" : {
+        "id" : 104,
+        "link" : "/api/v1/league/104"
+      }
+    }, {
+      "id" : "ASMVP",
+      "name" : "All-Star MVP",
+      "sortOrder" : 25,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "ALAS",
+      "name" : "AL All-Star",
+      "description" : "Made roster of all-star team",
+      "sortOrder" : 26,
+      "league" : {
+        "id" : 103,
+        "link" : "/api/v1/league/103"
+      },
+      "notes" : "Made roster of AL All-Star team"
+    }, {
+      "id" : "NLAS",
+      "name" : "NL All-Star",
+      "description" : "Made roster of all-star team",
+      "sortOrder" : 26,
+      "league" : {
+        "id" : 104,
+        "link" : "/api/v1/league/104"
+      },
+      "notes" : "Made roster of NL All-Star team"
+    }, {
+      "id" : "ALCSMVP",
+      "name" : "ALCS MVP",
+      "description" : "ALCS MVP",
+      "sortOrder" : 29,
+      "league" : {
+        "id" : 103,
+        "link" : "/api/v1/league/103"
+      },
+      "notes" : "AL Championship Series MVP"
+    }, {
+      "id" : "NLCSMVP",
+      "name" : "NLCS MVP",
+      "description" : "NLCS MVP",
+      "sortOrder" : 29,
+      "league" : {
+        "id" : 104,
+        "link" : "/api/v1/league/104"
+      },
+      "notes" : "NL Championship Series MVP"
+    }, {
+      "id" : "ALSS",
+      "name" : "AL Silver Slugger",
+      "sortOrder" : 30,
+      "league" : {
+        "id" : 103,
+        "link" : "/api/v1/league/103"
+      }
+    }, {
+      "id" : "NLSS",
+      "name" : "NL Silver Slugger",
+      "sortOrder" : 30,
+      "league" : {
+        "id" : 104,
+        "link" : "/api/v1/league/104"
+      }
+    }, {
+      "id" : "MLBAFIRST",
+      "name" : "All-MLB First Team",
+      "sortOrder" : 31,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "MLBSECOND",
+      "name" : "All-MLB Second Team",
+      "sortOrder" : 32,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "MLAGG",
+      "name" : "MLB Rawlings All-Time Gold Glove",
+      "sortOrder" : 33,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "ALPG",
+      "name" : "Rawlings AL Platinum Glove",
+      "sortOrder" : 34,
+      "league" : {
+        "id" : 103,
+        "link" : "/api/v1/league/103"
+      }
+    }, {
+      "id" : "NLPG",
+      "name" : "Rawlings NL Platinum Glove",
+      "sortOrder" : 34,
+      "league" : {
+        "id" : 104,
+        "link" : "/api/v1/league/104"
+      }
+    }, {
+      "id" : "ALGG",
+      "name" : "Rawlings AL Gold Glove",
+      "sortOrder" : 35,
+      "league" : {
+        "id" : 103,
+        "link" : "/api/v1/league/103"
+      }
+    }, {
+      "id" : "MLGG",
+      "name" : "Rawlings MLB Gold Glove",
+      "sortOrder" : 35,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "NLGG",
+      "name" : "Rawlings NL Gold Glove",
+      "sortOrder" : 35,
+      "league" : {
+        "id" : 104,
+        "link" : "/api/v1/league/104"
+      }
+    }, {
+      "id" : "WMLBDPOY",
+      "name" : "Wilson MLB Defensive Player of the Year",
+      "sortOrder" : 38,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "WALDPOY",
+      "name" : "Wilson AL Defensive Player of the Year",
+      "sortOrder" : 39,
+      "league" : {
+        "id" : 103,
+        "link" : "/api/v1/league/103"
+      }
+    }, {
+      "id" : "WNLDPOY",
+      "name" : "Wilson NL Defensive Player of the Year",
+      "sortOrder" : 39,
+      "league" : {
+        "id" : 104,
+        "link" : "/api/v1/league/104"
+      }
+    }, {
+      "id" : "WDPOY",
+      "name" : "Wilson Defensive Player of the Year",
+      "sortOrder" : 40,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "WTDPOY",
+      "name" : "Wilson Team Defensive Player of the Year",
+      "sortOrder" : 41,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "ALCPOY",
+      "name" : "AL Comeback Player of the Year",
+      "sortOrder" : 43,
+      "league" : {
+        "id" : 103,
+        "link" : "/api/v1/league/103"
+      }
+    }, {
+      "id" : "NLCPOY",
+      "name" : "NL Comeback Player of the Year",
+      "sortOrder" : 43,
+      "league" : {
+        "id" : 104,
+        "link" : "/api/v1/league/104"
+      }
+    }, {
+      "id" : "HRDERBYWIN",
+      "name" : "Home Run Derby Winner",
+      "sortOrder" : 46,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "HRDERBY",
+      "name" : "Home Run Derby Participant",
+      "sortOrder" : 47,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "MLBRC",
+      "name" : "Roberto Clemente Award",
+      "sortOrder" : 50,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "HUTCH",
+      "name" : "The Hutch Award",
+      "sortOrder" : 51,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "ALHAA",
+      "name" : "AL Hank Aaron Award",
+      "sortOrder" : 52,
+      "league" : {
+        "id" : 103,
+        "link" : "/api/v1/league/103"
+      }
+    }, {
+      "id" : "NLHAA",
+      "name" : "NL Hank Aaron Award",
+      "sortOrder" : 52,
+      "league" : {
+        "id" : 104,
+        "link" : "/api/v1/league/104"
+      }
+    }, {
+      "id" : "BABERUTH",
+      "name" : "Babe Ruth Award",
+      "sortOrder" : 53,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "LOUBROCK",
+      "name" : "Lou Brock Award",
+      "sortOrder" : 54,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "LOUGEHRIG",
+      "name" : "Lou Gehrig Award",
+      "sortOrder" : 54,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "WARRENSPAHN",
+      "name" : "Warren Spahn Award",
+      "sortOrder" : 55,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "TONYCONIGLIARO",
+      "name" : "Tony Conigliaro Award",
+      "sortOrder" : 56,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "DHOY",
+      "name" : "Edgar Martinez Outstanding DH of the Year",
+      "sortOrder" : 57,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "ALREL",
+      "name" : "Mariano Rivera AL Reliever of the Year",
+      "description" : "Mariano Rivera American League Reliever of the Year",
+      "sortOrder" : 59,
+      "league" : {
+        "id" : 103,
+        "link" : "/api/v1/league/103"
+      }
+    }, {
+      "id" : "NLREL",
+      "name" : "Trevor Hoffman NL Reliever of the Year",
+      "description" : "Trevor Hoffman National League Reliever of the Year",
+      "sortOrder" : 59,
+      "league" : {
+        "id" : 104,
+        "link" : "/api/v1/league/104"
+      }
+    }, {
+      "id" : "ALRM",
+      "name" : "AL Relief Man Award",
+      "sortOrder" : 60,
+      "league" : {
+        "id" : 103,
+        "link" : "/api/v1/league/103"
+      }
+    }, {
+      "id" : "NLRM",
+      "name" : "NL Relief Man Award",
+      "sortOrder" : 60,
+      "league" : {
+        "id" : 104,
+        "link" : "/api/v1/league/104"
+      }
+    }, {
+      "id" : "DHLDMOY",
+      "name" : "DHL Delivery Man of the Year",
+      "sortOrder" : 61,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "DHLDMOM",
+      "name" : "DHL Delivery Man of the Month",
+      "sortOrder" : 62,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "ALPOM",
+      "name" : "AL Player of the Month",
+      "sortOrder" : 65,
+      "league" : {
+        "id" : 103,
+        "link" : "/api/v1/league/103"
+      },
+      "notes" : "AL Player of the Month"
+    }, {
+      "id" : "NLPOM",
+      "name" : "NL Player of the Month",
+      "sortOrder" : 65,
+      "league" : {
+        "id" : 104,
+        "link" : "/api/v1/league/104"
+      },
+      "notes" : "NL Player of the Month"
+    }, {
+      "id" : "ALPITOM",
+      "name" : "AL Pitcher of the Month",
+      "sortOrder" : 66,
+      "league" : {
+        "id" : 103,
+        "link" : "/api/v1/league/103"
+      }
+    }, {
+      "id" : "NLPITOM",
+      "name" : "NL Pitcher of the Month",
+      "sortOrder" : 66,
+      "league" : {
+        "id" : 104,
+        "link" : "/api/v1/league/104"
+      }
+    }, {
+      "id" : "ALROM",
+      "name" : "AL Rookie of the Month",
+      "sortOrder" : 67,
+      "league" : {
+        "id" : 103,
+        "link" : "/api/v1/league/103"
+      }
+    }, {
+      "id" : "NLROM",
+      "name" : "NL Rookie of the Month",
+      "sortOrder" : 67,
+      "league" : {
+        "id" : 104,
+        "link" : "/api/v1/league/104"
+      }
+    }, {
+      "id" : "ALRRELMON",
+      "name" : "AL Reliever of the Month by The Hartford",
+      "sortOrder" : 68,
+      "league" : {
+        "id" : 103,
+        "link" : "/api/v1/league/103"
+      }
+    }, {
+      "id" : "NLRRELMON",
+      "name" : "NL Reliever of the Month by The Hartford",
+      "sortOrder" : 68,
+      "league" : {
+        "id" : 104,
+        "link" : "/api/v1/league/104"
+      }
+    }, {
+      "id" : "ALPOW",
+      "name" : "AL Player of the Week",
+      "sortOrder" : 69,
+      "league" : {
+        "id" : 103,
+        "link" : "/api/v1/league/103"
+      },
+      "notes" : "AL Player of the Week"
+    }, {
+      "id" : "NLPOW",
+      "name" : "NL Player of the Week",
+      "sortOrder" : 69,
+      "league" : {
+        "id" : 104,
+        "link" : "/api/v1/league/104"
+      },
+      "notes" : "NL Player of the Week"
+    }, {
+      "id" : "MLBPLAYOW",
+      "name" : "MLB Play of the Week",
+      "sortOrder" : 70,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      },
+      "notes" : "Inagural award given in 2019"
+    }, {
+      "id" : "MLBCLUTCH",
+      "name" : "MLB Clutch Performer of the Year",
+      "sortOrder" : 71,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "MLBCLUTCHPOM",
+      "name" : "MLB Clutch Performer of the Month",
+      "sortOrder" : 72,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "MLBBML",
+      "name" : "Best Major Leaguer - MLB.com Awards",
+      "sortOrder" : 73,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "MLBBEP",
+      "name" : "Best Hitter - MLB.com Awards",
+      "sortOrder" : 74,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      },
+      "notes" : "Was “Best Everyday Player in 2015"
+    }, {
+      "id" : "MLBBSP",
+      "name" : "Best Pitcher - MLB.com Awards",
+      "sortOrder" : 75,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      },
+      "notes" : "Was “Best Starting Pitcher in 2015"
+    }, {
+      "id" : "MLBBROOK",
+      "name" : "Best Rookie - MLB.com Awards",
+      "sortOrder" : 76,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "MLBDEFP",
+      "name" : "Best Defensive Player - MLB.com Awards",
+      "sortOrder" : 77,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "MLBBRKP",
+      "name" : "Best Breakout Player - MLB.com Awards",
+      "sortOrder" : 78,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "MLBBOUP",
+      "name" : "Best Bounceback Player - MLB.com Awards",
+      "sortOrder" : 79,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "MLBMAN",
+      "name" : "Best Manager - MLB.com Awards",
+      "sortOrder" : 80,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "MLBEXEC",
+      "name" : "Best Executive - MLB.com Awards",
+      "sortOrder" : 81,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "MLBSOCMP",
+      "name" : "Best Social Media Personality - MLB.com Awards",
+      "sortOrder" : 82,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "MLBSOCMP2",
+      "name" : "Personality of the Year - MLB.com Awards",
+      "sortOrder" : 82,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      },
+      "notes" : "Was \"Best Social Media Personality-Esurance MLB Awards\" before 2017"
+    }, {
+      "id" : "MLBBPOFF",
+      "name" : "Best Play, Offense - MLB.com Awards",
+      "sortOrder" : 83,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "MLBBPDEF",
+      "name" : "Best Play, Defense - MLB.com Awards",
+      "sortOrder" : 84,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "MLBBMOM",
+      "name" : "Best Moment - MLB.com Awards",
+      "sortOrder" : 85,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "MLBBPERF",
+      "name" : "Best Performance - MLB.com Awards",
+      "sortOrder" : 86,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "MLBBSMP",
+      "name" : "Best Social Media Post - MLB.com Awards",
+      "sortOrder" : 87,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "MLBBCF",
+      "name" : "Best Celebrity Fan - MLB.com Awards",
+      "sortOrder" : 88,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "MLBBFC",
+      "name" : "Best Fan Catch - MLB.com Awards",
+      "sortOrder" : 89,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "MLBBINT",
+      "name" : "Best MLB Interview - MLB.com Awards",
+      "sortOrder" : 90,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "MLBBCALLT",
+      "name" : "Best Call, TV - MLB.com Awards",
+      "sortOrder" : 91,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "MLBBCALLR",
+      "name" : "Best Call, Radio - MLB.com Awards",
+      "sortOrder" : 92,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "MLBBEPFI",
+      "name" : "Best Player - MLB.com Awards",
+      "sortOrder" : 93,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "MLBBVBM",
+      "name" : "Best Video Board Moment - MLB.com Awards",
+      "sortOrder" : 94,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "MLBBTT",
+      "name" : "Best Trending Topic - MLB.com Awards",
+      "sortOrder" : 95,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "MLBBMPOST",
+      "name" : "Best Major Leaguer, Postseason - MLB.com Awards",
+      "sortOrder" : 96,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "MLBPOSMOM",
+      "name" : "Best Postseason Moment - MLB.com Awards",
+      "sortOrder" : 97,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "MLBCOMMVP",
+      "name" : "MLB MVP - MLB.com Awards",
+      "sortOrder" : 100,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "MLBCOMMVP2",
+      "name" : "Most Valuable Major Leaguer - MLB.com Awards",
+      "sortOrder" : 102,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "MLBCOMPOY",
+      "name" : "Player of the Year - MLB.com Awards",
+      "sortOrder" : 104,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "MLBCOMEVPOY",
+      "name" : "Everyday Player of the Year - MLB.com Awards",
+      "sortOrder" : 106,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "MLBCOMHOY",
+      "name" : "Hitter of the Year - MLB.com Awards",
+      "sortOrder" : 108,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "MLBCOMSOY",
+      "name" : "Starter of the Year - MLB.com Awards",
+      "sortOrder" : 110,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "MLBCOMROY",
+      "name" : "Rookie of the Year - MLB.com Awards",
+      "sortOrder" : 112,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "MLBCOMCOY",
+      "name" : "Closer of the Year - MLB.com Awards",
+      "sortOrder" : 114,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "MLBCOMSMOY",
+      "name" : "Setup Man of the Year - MLB.com Awards",
+      "sortOrder" : 116,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "MLBCOMDPOY",
+      "name" : "Defensive Player of the Year - MLB.com Awards",
+      "sortOrder" : 118,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "MLBCOMPSMVP",
+      "name" : "Postseason MVP - MLB.com Awards",
+      "sortOrder" : 120,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "MLBCOMBREAK",
+      "name" : "Breakout Everyday Player of the Year MLB.com Award",
+      "sortOrder" : 122,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "MLBCOMMOY",
+      "name" : "Manager of the Year - MLB.com Awards",
+      "sortOrder" : 124,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "MLBCOMEXEC",
+      "name" : "Executive of the Year - MLB.com Awards",
+      "sortOrder" : 126,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "MLBCOMBREAKH",
+      "name" : "Breakout Hitter of the Year - MLB.com Awards",
+      "sortOrder" : 128,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "MLBCOMBREAKP",
+      "name" : "Breakout Pitcher of the Year - MLB.com Awards",
+      "sortOrder" : 130,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "MLBCOMCMBCK",
+      "name" : "Bounceback Player of the Year - MLB.com Awards",
+      "sortOrder" : 132,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "MLBCOMDEPEND",
+      "name" : "Dependable Player of the Year - MLB.com Awards",
+      "sortOrder" : 134,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "MLBCOMSTAR",
+      "name" : "Unsung Star of the Year - MLB.com Awards",
+      "sortOrder" : 136,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "MLBCOMXFACTOR",
+      "name" : "X-Factor Player of the Year - MLB.com Awards",
+      "sortOrder" : 138,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "MLBCOMPERFOY",
+      "name" : "Performance of the Year - MLB.com Awards",
+      "sortOrder" : 140,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "MLBCOMHPERF",
+      "name" : "Hitting Performance of the Year - MLB.com Awards",
+      "sortOrder" : 142,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "MLBCOMPPERF",
+      "name" : "Pitching Performance of the Year - MLB.com Awards",
+      "sortOrder" : 144,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "MLBCOMMOMOY",
+      "name" : "Moment of the Year - MLB.com Awards",
+      "sortOrder" : 146,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "MLBCOMPLAYOY",
+      "name" : "Play of the Year - MLB.com Awards",
+      "sortOrder" : 148,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "MLBCOMWOFF",
+      "name" : "Walk-Off of the Year - MLB.com Awards",
+      "sortOrder" : 150,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "MLBCOMOFT",
+      "name" : "Outfield Throw of the Year - MLB.com Awards",
+      "sortOrder" : 152,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "MLBCOMWOWF",
+      "name" : "Wow Factor of the Year - MLB.com Awards",
+      "sortOrder" : 154,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "MLBCOMODDOY",
+      "name" : "Oddity of the Year - MLB.com Awards",
+      "sortOrder" : 156,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "MLBCOMPMOY",
+      "name" : "Postseason Moment of the Year - MLB.com Awards",
+      "sortOrder" : 158,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "MLBCOMCUT4",
+      "name" : "Cut4 Topic of the Year - MLB.com Awards",
+      "sortOrder" : 160,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "SISPORTSMAN",
+      "name" : "SI's Sportsman of the Year",
+      "sortOrder" : 163,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "BAMLPOY",
+      "name" : "Baseball America Major League Player of the Year",
+      "sortOrder" : 164,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "BAMLROY",
+      "name" : "Baseball America Major League Rookie of the Year",
+      "sortOrder" : 165,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "BAMLMOY",
+      "name" : "Baseball America Major League Manager of the Year",
+      "sortOrder" : 166,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "BAMLART",
+      "name" : "Baseball America Major League All-Rookie Team",
+      "sortOrder" : 167,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "MLBPCPOY",
+      "name" : "MLB Players Choice Player of the Year",
+      "sortOrder" : 168,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "MLBPCMOY",
+      "name" : "MLB Players Choice Man of the Year",
+      "sortOrder" : 169,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "MLBPCALOP",
+      "name" : "MLB Players Choice AL Outstanding Player",
+      "sortOrder" : 170,
+      "league" : {
+        "id" : 103,
+        "link" : "/api/v1/league/103"
+      }
+    }, {
+      "id" : "MLBPCNLOP",
+      "name" : "MLB Players Choice NL Outstanding Player",
+      "sortOrder" : 170,
+      "league" : {
+        "id" : 104,
+        "link" : "/api/v1/league/104"
+      }
+    }, {
+      "id" : "MLBPCALPIT",
+      "name" : "MLB Players Choice AL Outstanding Pitcher",
+      "sortOrder" : 171,
+      "league" : {
+        "id" : 103,
+        "link" : "/api/v1/league/103"
+      }
+    }, {
+      "id" : "MLBPCNLPIT",
+      "name" : "MLB Players Choice NL Outstanding Pitcher",
+      "sortOrder" : 171,
+      "league" : {
+        "id" : 104,
+        "link" : "/api/v1/league/104"
+      }
+    }, {
+      "id" : "MLBPCALOR",
+      "name" : "MLB Players Choice AL Outstanding Rookie",
+      "sortOrder" : 172,
+      "league" : {
+        "id" : 103,
+        "link" : "/api/v1/league/103"
+      }
+    }, {
+      "id" : "MLBPCNLOR",
+      "name" : "MLB Players Choice NL Outstanding Rookie",
+      "sortOrder" : 172,
+      "league" : {
+        "id" : 104,
+        "link" : "/api/v1/league/104"
+      }
+    }, {
+      "id" : "MLBPCALCOM",
+      "name" : "MLB Players Choice AL Comeback Player",
+      "sortOrder" : 173,
+      "league" : {
+        "id" : 103,
+        "link" : "/api/v1/league/103"
+      }
+    }, {
+      "id" : "MLBPCNLCOM",
+      "name" : "MLB Players Choice NL Comeback Player",
+      "sortOrder" : 173,
+      "league" : {
+        "id" : 104,
+        "link" : "/api/v1/league/104"
+      }
+    }, {
+      "id" : "HEARTANDHUSTLE",
+      "name" : "MLBPAA Heart and Hustle Award",
+      "sortOrder" : 176,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "ANAHEARTHUSTLE",
+      "name" : "MLBPAA Angels Heart and Hustle Award",
+      "sortOrder" : 177,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "HOUHEARTHUSTLE",
+      "name" : "MLBPAA Astros Heart and Hustle Award",
+      "sortOrder" : 177,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "OAKHEARTHUSTLE",
+      "name" : "MLBPAA Athletics Heart and Hustle Award",
+      "sortOrder" : 177,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "TORHEARTHUSTLE",
+      "name" : "MLBPAA Blue Jays Heart and Hustle Award",
+      "sortOrder" : 177,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "ATLHEARTHUSTLE",
+      "name" : "MLBPAA Braves Heart and Hustle Award",
+      "sortOrder" : 177,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "MILHEARTHUSTLE",
+      "name" : "MLBPAA Brewers Heart and Hustle Award",
+      "sortOrder" : 177,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "STLHEARTHUSTLE",
+      "name" : "MLBPAA Cardinals Heart and Hustle Award",
+      "sortOrder" : 177,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "CHNHEARTHUSTLE",
+      "name" : "MLBPAA Cubs Heart and Hustle Award",
+      "sortOrder" : 177,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "ARIHEARTHUSTLE",
+      "name" : "MLBPAA Diamondbacks Heart and Hustle Award",
+      "sortOrder" : 177,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "LANHEARTHUSTLE",
+      "name" : "MLBPAA Dodgers Heart and Hustle Award",
+      "sortOrder" : 177,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "SFNHEARTHUSTLE",
+      "name" : "MLBPAA Giants Heart and Hustle Award",
+      "sortOrder" : 177,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "CLEHEARTHUSTLE",
+      "name" : "MLBPAA Indians Heart and Hustle Award",
+      "sortOrder" : 177,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "SEAHEARTHUSTLE",
+      "name" : "MLBPAA Mariners Heart and Hustle Award",
+      "sortOrder" : 177,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "FLAHEARTHUSTLE",
+      "name" : "MLBPAA Marlins Heart and Hustle Award",
+      "sortOrder" : 177,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "NYNHEARTHUSTLE",
+      "name" : "MLBPAA Mets Heart and Hustle Award",
+      "sortOrder" : 177,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "WASHEARTHUSTLE",
+      "name" : "MLBPAA Nationals Heart and Hustle Award",
+      "sortOrder" : 177,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "BALHEARTHUSTLE",
+      "name" : "MLBPAA Orioles Heart and Hustle Award",
+      "sortOrder" : 177,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "SDGHEARTHUSTLE",
+      "name" : "MLBPAA Padres Heart and Hustle Award",
+      "sortOrder" : 177,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "PHIHEARTHUSTLE",
+      "name" : "MLBPAA Phillies Heart and Hustle Award",
+      "sortOrder" : 177,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "PITHEARTHUSTLE",
+      "name" : "MLBPAA Pirates Heart and Hustle Award",
+      "sortOrder" : 177,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "TEXHEARTHUSTLE",
+      "name" : "MLBPAA Rangers Heart and Hustle Award",
+      "sortOrder" : 177,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "TBAHEARTHUSTLE",
+      "name" : "MLBPAA Rays Heart and Hustle Award",
+      "sortOrder" : 177,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "BOSHEARTHUSTLE",
+      "name" : "MLBPAA Red Sox Heart and Hustle Award",
+      "sortOrder" : 177,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "CINHEARTHUSTLE",
+      "name" : "MLBPAA Reds Heart and Hustle Award",
+      "sortOrder" : 177,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "COLHEARTHUSTLE",
+      "name" : "MLBPAA Rockies Heart and Hustle Award",
+      "sortOrder" : 177,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "KCAHEARTHUSTLE",
+      "name" : "MLBPAA Royals Heart and Hustle Award",
+      "sortOrder" : 177,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "DETHEARTHUSTLE",
+      "name" : "MLBPAA Tigers Heart and Hustle Award",
+      "sortOrder" : 177,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "MINHEARTHUSTLE",
+      "name" : "MLBPAA Twins Heart and Hustle Award",
+      "sortOrder" : 177,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "CHAHEARTHUSTLE",
+      "name" : "MLBPAA White Sox Heart and Hustle Award",
+      "sortOrder" : 177,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "NYAHEARTHUSTLE",
+      "name" : "MLBPAA Yankees Heart and Hustle Award",
+      "sortOrder" : 177,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "HOUKILE",
+      "name" : "Astros Darryl Kile Award",
+      "sortOrder" : 180,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "HOUMVP",
+      "name" : "Astros Most Valuable Player",
+      "sortOrder" : 181,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "HOUPOY",
+      "name" : "Astros Pitcher of the Year",
+      "sortOrder" : 182,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "HOUROY",
+      "name" : "Astros Rookie of the Year",
+      "sortOrder" : 183,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "OAKCATFISH",
+      "name" : "Athletics Jim Catfish Hunter Award",
+      "sortOrder" : 186,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "OAKSERVICE",
+      "name" : "Athletics Dave Stewart Service Award",
+      "sortOrder" : 187,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "TORLEVEL",
+      "name" : "Blue Jays Level of Excellence",
+      "sortOrder" : 190,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "TORMVP",
+      "name" : "Blue Jays MVP",
+      "sortOrder" : 191,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      },
+      "notes" : "American League"
+    }, {
+      "id" : "TORPOY",
+      "name" : "Blue Jays Pitcher of the Year",
+      "sortOrder" : 192,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      },
+      "notes" : "American League"
+    }, {
+      "id" : "TORROY",
+      "name" : "Blue Jays Rookie of the Year",
+      "sortOrder" : 193,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      },
+      "notes" : "American League"
+    }, {
+      "id" : "TORMIP",
+      "name" : "Blue Jays Most Improved Player",
+      "sortOrder" : 194,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      },
+      "notes" : "American League"
+    }, {
+      "id" : "MILMVP",
+      "name" : "Brewers MVP",
+      "sortOrder" : 197,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "MILPOY",
+      "name" : "Brewers Pitcher of the Year",
+      "sortOrder" : 198,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "MILKUENN",
+      "name" : "Brewers Harvey Kuenn Award",
+      "sortOrder" : 199,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "MILGOODGUY",
+      "name" : "Brewers Good Guy Award",
+      "sortOrder" : 200,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "MILHARRISON",
+      "name" : "Brewers Michael Harrison Award",
+      "sortOrder" : 201,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "MILUNSUNG",
+      "name" : "Brewers Unsung Hero Award",
+      "sortOrder" : 202,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "MILNEWCOMER",
+      "name" : "Brewers Top Newcomer Award",
+      "sortOrder" : 203,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "STLKILE",
+      "name" : "Cardinals Darryl Kile Award",
+      "sortOrder" : 206,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "ARIMVP",
+      "name" : "Diamondbacks MVP Award",
+      "sortOrder" : 209,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "ARIPOY",
+      "name" : "Diamondbacks Pitcher of the Year",
+      "sortOrder" : 210,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "ARIROY",
+      "name" : "Diamondbacks Rookie of the Year",
+      "sortOrder" : 211,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "ARIGOODGUY",
+      "name" : "Diamondbacks Good Guy Award",
+      "sortOrder" : 212,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "SFNWMA",
+      "name" : "Giants Willie McCovey Award",
+      "sortOrder" : 215,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "CLEMANOY",
+      "name" : "Cleveland BBWA Man of the Year Award",
+      "sortOrder" : 218,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "CLEGOODGUY",
+      "name" : "Indians Frank Gibbons/Steve Olin Good Guy Award",
+      "sortOrder" : 219,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "CLETOMAHAWK",
+      "name" : "Indians Gordon Cobbledick Golden Tomahawk Award",
+      "sortOrder" : 220,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "SEAMVP",
+      "name" : "Mariners MVP",
+      "sortOrder" : 223,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "SEAUNSUNG",
+      "name" : "Mariners Unsung Hero Award",
+      "sortOrder" : 224,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "FLAMVP",
+      "name" : "Marlins MVP",
+      "sortOrder" : 227,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "FLAROY",
+      "name" : "Marlins Rookie of the Year",
+      "sortOrder" : 228,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "FLACONINE",
+      "name" : "Marlins Jeff Conine Award",
+      "sortOrder" : 229,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "FLAGOODGUY",
+      "name" : "Marlins Charlie Hough Good Guy Award",
+      "sortOrder" : 230,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "BALMVA",
+      "name" : "Orioles Most Valuable Award",
+      "sortOrder" : 233,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "SDGMVP",
+      "name" : "Padres MVP",
+      "sortOrder" : 236,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "SDGCHAIRMAN",
+      "name" : "Padres Chairman's Award",
+      "sortOrder" : 237,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "SDGNEW",
+      "name" : "Favorite New Padre Award",
+      "sortOrder" : 238,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "SDGPOY",
+      "name" : "Padres Clyde McCullough Pitcher of the Year Award",
+      "sortOrder" : 239,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "SDGFIREMAN",
+      "name" : "Padres Fireman's Award",
+      "sortOrder" : 240,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "PHIMVP",
+      "name" : "Phillies MVP Award",
+      "sortOrder" : 243,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "PHIPOY",
+      "name" : "Phillies Pitcher of the Year",
+      "sortOrder" : 244,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "PHISAA",
+      "name" : "Phillies Special Achievement Award",
+      "sortOrder" : 245,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "PHIGOODGUY",
+      "name" : "Phillies Good Guy Award",
+      "sortOrder" : 246,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "TEXMVP",
+      "name" : "Rangers MVP",
+      "sortOrder" : 249,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "TEXPOY",
+      "name" : "Rangers Pitcher of the Year",
+      "sortOrder" : 250,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "TEXROY",
+      "name" : "Rangers Rookie of the Year",
+      "sortOrder" : 251,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "TEXGOODGUY",
+      "name" : "Rangers Harold McKinney Good Guy Award",
+      "sortOrder" : 252,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "BOSMVP",
+      "name" : "Thomas A. Yawkey Red Sox MVP",
+      "sortOrder" : 255,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "BOSPOY",
+      "name" : "Red Sox Pitcher of the Year",
+      "sortOrder" : 256,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "BOSROY",
+      "name" : "Red Sox Rookie of the Year",
+      "sortOrder" : 257,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "BOSMANOY",
+      "name" : "Bosox Club Man of the Year Award",
+      "sortOrder" : 258,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "BOSFIREMAN",
+      "name" : "Red Sox Fireman's Award",
+      "sortOrder" : 259,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "BOSGOODGUY",
+      "name" : "Red Sox Good Guy Award",
+      "sortOrder" : 260,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "BOSSPIRIT",
+      "name" : "Red Sox Jensen Spirit Award",
+      "sortOrder" : 261,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "CINMVP",
+      "name" : "Reds Ernie Lombardi MVP Award",
+      "sortOrder" : 264,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "CINPOY",
+      "name" : "Reds Johnny Vander Meer Award",
+      "sortOrder" : 265,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "CINGOODGUY",
+      "name" : "Reds Joe Nuxhall Good Guy Award",
+      "sortOrder" : 266,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "DETROY",
+      "name" : "Tigers Rookie of the Year",
+      "sortOrder" : 269,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "MINMVP",
+      "name" : "Twins Calvin R. Griffith MVP Award",
+      "sortOrder" : 272,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "MINPOHLAD",
+      "name" : "Twins Carl R. Pohlad Award",
+      "sortOrder" : 273,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "MINSIEBERT",
+      "name" : "Twins Dick Siebert Player of the Year Award",
+      "sortOrder" : 274,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "MINPOY",
+      "name" : "Twins Joseph W. Haynes Pitcher of the Year Award",
+      "sortOrder" : 275,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "MINGOODGUY",
+      "name" : "Twins Good Guy Award",
+      "sortOrder" : 276,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "MINLEADER",
+      "name" : "Twins Leadership Award",
+      "sortOrder" : 277,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "MINIMPROVED",
+      "name" : "Twins Most Improved Award",
+      "sortOrder" : 278,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "MINROOK",
+      "name" : "Twins Outstanding Rookie Award",
+      "sortOrder" : 279,
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1"
+      }
+    }, {
+      "id" : "WBCMVP",
+      "name" : "World Baseball Classic MVP",
+      "sortOrder" : 901,
+      "league" : {
+        "id" : 160,
+        "link" : "/api/v1/league/160"
+      }
+    }, {
+      "id" : "WBCTT",
+      "name" : "WBC All-Tournament Team",
+      "sortOrder" : 906,
+      "league" : {
+        "id" : 160,
+        "link" : "/api/v1/league/160"
+      }
+    }, {
+      "id" : "WBCMVP1",
+      "name" : "World Baseball Classic Pool E MVP",
+      "sortOrder" : 911,
+      "league" : {
+        "id" : 160,
+        "link" : "/api/v1/league/160"
+      }
+    }, {
+      "id" : "WBCMVP2",
+      "name" : "World Baseball Classic Pool F MVP",
+      "sortOrder" : 916,
+      "league" : {
+        "id" : 160,
+        "link" : "/api/v1/league/160"
+      }
+    }, {
+      "id" : "WBCMVPA",
+      "name" : "World Baseball Classic Pool A MVP",
+      "sortOrder" : 921,
+      "league" : {
+        "id" : 160,
+        "link" : "/api/v1/league/160"
+      }
+    }, {
+      "id" : "WBCMVPB",
+      "name" : "World Baseball Classic Pool B MVP",
+      "sortOrder" : 926,
+      "league" : {
+        "id" : 160,
+        "link" : "/api/v1/league/160"
+      }
+    }, {
+      "id" : "WBCMVPC",
+      "name" : "World Baseball Classic Pool C MVP",
+      "sortOrder" : 931,
+      "league" : {
+        "id" : 160,
+        "link" : "/api/v1/league/160"
+      }
+    }, {
+      "id" : "WBCMVPD",
+      "name" : "World Baseball Classic Pool D MVP",
+      "sortOrder" : 936,
+      "league" : {
+        "id" : 160,
+        "link" : "/api/v1/league/160"
+      }
+    }, {
+      "id" : "FUTMVP",
+      "name" : "Futures Game Most Valuable Player",
+      "sortOrder" : 1001,
+      "sport" : {
+        "id" : 21,
+        "link" : "/api/v1/sports/21"
+      }
+    }, {
+      "id" : "FUTURES",
+      "name" : "Futures Game Selection",
+      "sortOrder" : 1006,
+      "sport" : {
+        "id" : 21,
+        "link" : "/api/v1/sports/21"
+      }
+    }, {
+      "id" : "AFLHOF",
+      "name" : "AFL Hall of Fame Member",
+      "sortOrder" : 1021,
+      "league" : {
+        "id" : 119,
+        "link" : "/api/v1/league/119"
+      }
+    }, {
+      "id" : "AFLMVP",
+      "name" : "AFL Most Valuable Player",
+      "sortOrder" : 1036,
+      "league" : {
+        "id" : 119,
+        "link" : "/api/v1/league/119"
+      }
+    }, {
+      "id" : "AFLSPORT",
+      "name" : "AFL Dernell Stenson Sportsmanship Award",
+      "sortOrder" : 1041,
+      "league" : {
+        "id" : 119,
+        "link" : "/api/v1/league/119"
+      }
+    }, {
+      "id" : "AFLPSAS",
+      "name" : "AFL All-Prospect Team",
+      "sortOrder" : 1046,
+      "league" : {
+        "id" : 119,
+        "link" : "/api/v1/league/119"
+      }
+    }, {
+      "id" : "AFLPOWH",
+      "name" : "AFL Player of the Week",
+      "description" : "Player of the week, hitting",
+      "sortOrder" : 1051,
+      "league" : {
+        "id" : 119,
+        "link" : "/api/v1/league/119"
+      }
+    }, {
+      "id" : "AFLPOWP",
+      "name" : "AFL Pitcher of the Week",
+      "description" : "Player of the week, pitching",
+      "sortOrder" : 1056,
+      "league" : {
+        "id" : 119,
+        "link" : "/api/v1/league/119"
+      }
+    }, {
+      "id" : "AFLRSMVP",
+      "name" : "AFL Rising Stars MVP",
+      "sortOrder" : 1061,
+      "league" : {
+        "id" : 119,
+        "link" : "/api/v1/league/119"
+      }
+    }, {
+      "id" : "AFLRS",
+      "name" : "AFL Rising Stars",
+      "sortOrder" : 1066,
+      "league" : {
+        "id" : 119,
+        "link" : "/api/v1/league/119"
+      }
+    }, {
+      "id" : "BAPOY",
+      "name" : "Baseball America Minor League Player of the Year",
+      "sortOrder" : 1081,
+      "sport" : {
+        "id" : 21,
+        "link" : "/api/v1/sports/21"
+      }
+    }, {
+      "id" : "BAMILAS",
+      "name" : "Baseball America Minor League All-Star",
+      "sortOrder" : 1086,
+      "sport" : {
+        "id" : 21,
+        "link" : "/api/v1/sports/21"
+      }
+    }, {
+      "id" : "TOPSPINK",
+      "name" : "Topps/Minor League Player of the Year",
+      "sortOrder" : 1091,
+      "sport" : {
+        "id" : 21,
+        "link" : "/api/v1/sports/21"
+      }
+    }, {
+      "id" : "USAMLPOY",
+      "name" : "USA Today Minor League Player of the Year",
+      "sortOrder" : 1096,
+      "sport" : {
+        "id" : 21,
+        "link" : "/api/v1/sports/21"
+      }
+    }, {
+      "id" : "MILBRT",
+      "name" : "MiLB Round Tripper Award",
+      "sortOrder" : 1111,
+      "sport" : {
+        "id" : 21,
+        "link" : "/api/v1/sports/21"
+      }
+    }, {
+      "id" : "MILBRTAAA",
+      "name" : "MiLB Round Tripper Award, Triple-A",
+      "sortOrder" : 1116,
+      "sport" : {
+        "id" : 11,
+        "link" : "/api/v1/sports/11"
+      }
+    }, {
+      "id" : "MILBRTAAX",
+      "name" : "MiLB Round Tripper Award, Double A",
+      "sortOrder" : 1121,
+      "sport" : {
+        "id" : 12,
+        "link" : "/api/v1/sports/12"
+      }
+    }, {
+      "id" : "MILBRTAFA",
+      "name" : "MiLB Round Tripper Award, Class A Advanced",
+      "sortOrder" : 1126,
+      "sport" : {
+        "id" : 13,
+        "link" : "/api/v1/sports/13"
+      }
+    }, {
+      "id" : "MILBRTAXX",
+      "name" : "MiLB Round Tripper Award, Class A",
+      "sortOrder" : 1131,
+      "sport" : {
+        "id" : 21,
+        "link" : "/api/v1/sports/21"
+      }
+    }, {
+      "id" : "MILBRTSS",
+      "name" : "MiLB Round Tripper Award, Short-Season",
+      "sortOrder" : 1136,
+      "sport" : {
+        "id" : 21,
+        "link" : "/api/v1/sports/21"
+      }
+    }, {
+      "id" : "MILBHR",
+      "name" : "MiLB Joe Bauman Home Run Award",
+      "sortOrder" : 1151,
+      "sport" : {
+        "id" : 21,
+        "link" : "/api/v1/sports/21"
+      }
+    }, {
+      "id" : "MILBHRAAA",
+      "name" : "MiLB Joe Bauman Home Run Award Triple A",
+      "sortOrder" : 1156,
+      "sport" : {
+        "id" : 11,
+        "link" : "/api/v1/sports/11"
+      }
+    }, {
+      "id" : "MILBHRAAX",
+      "name" : "MiLB Joe Bauman Home Run Award Double A",
+      "sortOrder" : 1161,
+      "sport" : {
+        "id" : 12,
+        "link" : "/api/v1/sports/12"
+      }
+    }, {
+      "id" : "MILBHRAFA",
+      "name" : "MiLB Joe Bauman Home Run Award A Advanced",
+      "sortOrder" : 1166,
+      "sport" : {
+        "id" : 13,
+        "link" : "/api/v1/sports/13"
+      }
+    }, {
+      "id" : "MILBHRAFX",
+      "name" : "MiLB Joe Bauman Home Run Award Single A",
+      "sortOrder" : 1171,
+      "sport" : {
+        "id" : 14,
+        "link" : "/api/v1/sports/14"
+      }
+    }, {
+      "id" : "MILBHRASX",
+      "name" : "MiLB Joe Bauman Home Run Award Short Season",
+      "sortOrder" : 1176,
+      "sport" : {
+        "id" : 15,
+        "link" : "/api/v1/sports/15"
+      }
+    }, {
+      "id" : "MILBHRROK",
+      "name" : "MiLB Joe Bauman Home Run Award Rookie",
+      "sortOrder" : 1181,
+      "sport" : {
+        "id" : 16,
+        "link" : "/api/v1/sports/16"
+      }
+    }, {
+      "id" : "MILBGG",
+      "name" : "MiLB Gold Glove",
+      "sortOrder" : 1196,
+      "sport" : {
+        "id" : 21,
+        "link" : "/api/v1/sports/21"
+      }
+    }, {
+      "id" : "PIPELINEHOY",
+      "name" : "MLBPipeline.com Hitter of the Year",
+      "sortOrder" : 1198,
+      "sport" : {
+        "id" : 21,
+        "link" : "/api/v1/sports/21"
+      }
+    }, {
+      "id" : "PIPELINEPOY",
+      "name" : "MLBPipeline.com Pitcher of the Year",
+      "sortOrder" : 1199,
+      "sport" : {
+        "id" : 21,
+        "link" : "/api/v1/sports/21"
+      }
+    }, {
+      "id" : "BAMMIBH",
+      "name" : "MiLB.com Best Hitter of the Year",
+      "sortOrder" : 1201,
+      "sport" : {
+        "id" : 21,
+        "link" : "/api/v1/sports/21"
+      }
+    }, {
+      "id" : "BAMMIOP",
+      "name" : "MiLB.com Minor League Offensive Player of the Year",
+      "sortOrder" : 1206,
+      "sport" : {
+        "id" : 21,
+        "link" : "/api/v1/sports/21"
+      }
+    }, {
+      "id" : "MILBMSP",
+      "name" : "MiLB.com Most Spectacular Pitcher",
+      "sortOrder" : 1211,
+      "sport" : {
+        "id" : 21,
+        "link" : "/api/v1/sports/21"
+      }
+    }, {
+      "id" : "BAMMISP",
+      "name" : "MiLB.com Minor League Starting Pitcher of the Year",
+      "sortOrder" : 1216,
+      "sport" : {
+        "id" : 21,
+        "link" : "/api/v1/sports/21"
+      }
+    }, {
+      "id" : "BAMMIRP",
+      "name" : "MiLB.com Minor League Relief Pitcher of the Year",
+      "sortOrder" : 1221,
+      "sport" : {
+        "id" : 21,
+        "link" : "/api/v1/sports/21"
+      }
+    }, {
+      "id" : "BAMMISGP",
+      "name" : "MiLB.com Minor League Best Single-Game Performer",
+      "sortOrder" : 1226,
+      "sport" : {
+        "id" : 21,
+        "link" : "/api/v1/sports/21"
+      }
+    }, {
+      "id" : "BAMMIBP",
+      "name" : "MiLB.com Breakthrough Performer",
+      "sortOrder" : 1231,
+      "sport" : {
+        "id" : 21,
+        "link" : "/api/v1/sports/21"
+      }
+    }, {
+      "id" : "BAMHOMER",
+      "name" : "MiLB.com Home Run of the Year",
+      "sortOrder" : 1236,
+      "sport" : {
+        "id" : 21,
+        "link" : "/api/v1/sports/21"
+      }
+    }, {
+      "id" : "BAMMOMENT",
+      "name" : "MiLB.com Moment of the Year",
+      "sortOrder" : 1241,
+      "sport" : {
+        "id" : 21,
+        "link" : "/api/v1/sports/21"
+      }
+    }, {
+      "id" : "BAMPLAY",
+      "name" : "MiLB.com Play of the Year",
+      "sortOrder" : 1246,
+      "sport" : {
+        "id" : 21,
+        "link" : "/api/v1/sports/21"
+      }
+    }, {
+      "id" : "MILBORGAS",
+      "name" : "MiLB.com Organization All-Star",
+      "sortOrder" : 1251,
+      "sport" : {
+        "id" : 21,
+        "link" : "/api/v1/sports/21"
+      }
+    }, {
+      "id" : "BAMMILBOFF",
+      "name" : "MiLB.com Best Offensive Player",
+      "sortOrder" : 1256,
+      "sport" : {
+        "id" : 21,
+        "link" : "/api/v1/sports/21"
+      }
+    }, {
+      "id" : "BAMMILBRP",
+      "name" : "MiLB.com Best Relief Pitcher",
+      "sortOrder" : 1261,
+      "sport" : {
+        "id" : 21,
+        "link" : "/api/v1/sports/21"
+      }
+    }, {
+      "id" : "BAMMILBSP",
+      "name" : "MiLB.com Best Starting Pitcher",
+      "sortOrder" : 1266,
+      "sport" : {
+        "id" : 21,
+        "link" : "/api/v1/sports/21"
+      }
+    }, {
+      "id" : "MILBMSPAAA",
+      "name" : "MiLB Most Spectacular Pitcher, Triple-A",
+      "sortOrder" : 1281,
+      "sport" : {
+        "id" : 11,
+        "link" : "/api/v1/sports/11"
+      }
+    }, {
+      "id" : "BAMAAABH",
+      "name" : "MiLB.com Triple-A Best Hitter of the Year",
+      "sortOrder" : 1286,
+      "sport" : {
+        "id" : 11,
+        "link" : "/api/v1/sports/11"
+      }
+    }, {
+      "id" : "BAMAAAOP",
+      "name" : "MiLB.com Triple-A Offensive Player of the Year",
+      "sortOrder" : 1291,
+      "sport" : {
+        "id" : 11,
+        "link" : "/api/v1/sports/11"
+      }
+    }, {
+      "id" : "BAMAAARP",
+      "name" : "MiLB.com Triple-A Relief Pitcher of the Year",
+      "sortOrder" : 1296,
+      "sport" : {
+        "id" : 11,
+        "link" : "/api/v1/sports/11"
+      }
+    }, {
+      "id" : "BAMAAASP",
+      "name" : "MiLB.com Triple-A Starting Pitcher of the Year",
+      "sortOrder" : 1301,
+      "sport" : {
+        "id" : 11,
+        "link" : "/api/v1/sports/11"
+      }
+    }, {
+      "id" : "BAMAAABP",
+      "name" : "MiLB.com Triple-A Breakthrough Performer",
+      "sortOrder" : 1306,
+      "sport" : {
+        "id" : 11,
+        "link" : "/api/v1/sports/11"
+      }
+    }, {
+      "id" : "BAMAAASGP",
+      "name" : "MiLB.com Triple-A Best Single-Game Performer",
+      "sortOrder" : 1311,
+      "sport" : {
+        "id" : 11,
+        "link" : "/api/v1/sports/11"
+      }
+    }, {
+      "id" : "BAMAAAPP",
+      "name" : "MiLB.com Triple-A Best Playoff Performer",
+      "sortOrder" : 1316,
+      "sport" : {
+        "id" : 11,
+        "link" : "/api/v1/sports/11"
+      }
+    }, {
+      "id" : "MILBMSPAAX",
+      "name" : "MiLB Most Spectacular Pitcher, Double A",
+      "sortOrder" : 1331,
+      "sport" : {
+        "id" : 12,
+        "link" : "/api/v1/sports/12"
+      }
+    }, {
+      "id" : "BAMAAXBH",
+      "name" : "MiLB.com Double-A Best Hitter of the Year",
+      "sortOrder" : 1336,
+      "sport" : {
+        "id" : 21,
+        "link" : "/api/v1/sports/21"
+      }
+    }, {
+      "id" : "BAMAAXPP",
+      "name" : "MiLB.com Double-A Best Playoff Performer",
+      "sortOrder" : 1341,
+      "sport" : {
+        "id" : 12,
+        "link" : "/api/v1/sports/12"
+      }
+    }, {
+      "id" : "BAMAAXBP",
+      "name" : "MiLB.com Double-A Breakthrough Performer",
+      "sortOrder" : 1346,
+      "sport" : {
+        "id" : 12,
+        "link" : "/api/v1/sports/12"
+      }
+    }, {
+      "id" : "BAMAAXSGP",
+      "name" : "MiLB.com Double-A Best Single-Game Performer",
+      "sortOrder" : 1351,
+      "sport" : {
+        "id" : 12,
+        "link" : "/api/v1/sports/12"
+      }
+    }, {
+      "id" : "BAMAAXOP",
+      "name" : "MiLB.com Double-A Offensive Player of the Year",
+      "sortOrder" : 1356,
+      "sport" : {
+        "id" : 12,
+        "link" : "/api/v1/sports/12"
+      }
+    }, {
+      "id" : "BAMAAXRP",
+      "name" : "MiLB.com Double-A Relief Pitcher of the Year",
+      "sortOrder" : 1361,
+      "sport" : {
+        "id" : 12,
+        "link" : "/api/v1/sports/12"
+      }
+    }, {
+      "id" : "BAMAAXSP",
+      "name" : "MiLB.com Double-A Starting Pitcher of the Year",
+      "sortOrder" : 1366,
+      "sport" : {
+        "id" : 12,
+        "link" : "/api/v1/sports/12"
+      }
+    }, {
+      "id" : "BAMADVBH",
+      "name" : "MiLB.com Class A Adv. Best Hitter of the Year",
+      "sortOrder" : 1381,
+      "sport" : {
+        "id" : 21,
+        "link" : "/api/v1/sports/21"
+      }
+    }, {
+      "id" : "BAMADVOP",
+      "name" : "MiLB.com Class A Adv. Offensive Player of the Year",
+      "sortOrder" : 1386,
+      "sport" : {
+        "id" : 21,
+        "link" : "/api/v1/sports/21"
+      }
+    }, {
+      "id" : "BAMADVSP",
+      "name" : "MiLB.com Class A Adv. Starting Pitcher of the Year",
+      "sortOrder" : 1391,
+      "sport" : {
+        "id" : 21,
+        "link" : "/api/v1/sports/21"
+      }
+    }, {
+      "id" : "BAMADVRP",
+      "name" : "MiLB.com Class A Adv. Relief Pitcher of the Year",
+      "sortOrder" : 1396,
+      "sport" : {
+        "id" : 21,
+        "link" : "/api/v1/sports/21"
+      }
+    }, {
+      "id" : "BAMADVPP",
+      "name" : "MiLB.com Class A Adv. Best Playoff Performer",
+      "sortOrder" : 1401,
+      "sport" : {
+        "id" : 21,
+        "link" : "/api/v1/sports/21"
+      }
+    }, {
+      "id" : "BAMADVSGP",
+      "name" : "MiLB.com Class A Adv. Best Single-Game Performer",
+      "sortOrder" : 1406,
+      "sport" : {
+        "id" : 21,
+        "link" : "/api/v1/sports/21"
+      }
+    }, {
+      "id" : "BAMADVBP",
+      "name" : "MiLB.com Class A Adv. Breakthrough Performer",
+      "sortOrder" : 1411,
+      "sport" : {
+        "id" : 21,
+        "link" : "/api/v1/sports/21"
+      }
+    }, {
+      "id" : "MILBMSPAXX",
+      "name" : "MiLB Most Spectacular Pitcher, Class A",
+      "sortOrder" : 1426,
+      "sport" : {
+        "id" : 21,
+        "link" : "/api/v1/sports/21"
+      }
+    }, {
+      "id" : "BAMAXXBH",
+      "name" : "MiLB.com Class A Best Hitter of the Year",
+      "sortOrder" : 1431,
+      "sport" : {
+        "id" : 21,
+        "link" : "/api/v1/sports/21"
+      }
+    }, {
+      "id" : "BAMAXXOP",
+      "name" : "MiLB.com Class A Offensive Player of the Year",
+      "sortOrder" : 1436,
+      "sport" : {
+        "id" : 21,
+        "link" : "/api/v1/sports/21"
+      }
+    }, {
+      "id" : "BAMAXXSP",
+      "name" : "MiLB.com Class A Starting Pitcher of the Year",
+      "sortOrder" : 1441,
+      "sport" : {
+        "id" : 21,
+        "link" : "/api/v1/sports/21"
+      }
+    }, {
+      "id" : "BAMAXXRP",
+      "name" : "MiLB.com Class A Relief Pitcher of the Year",
+      "sortOrder" : 1446,
+      "sport" : {
+        "id" : 21,
+        "link" : "/api/v1/sports/21"
+      }
+    }, {
+      "id" : "BAMAXXPP",
+      "name" : "MiLB.com Class A Best Playoff Performer",
+      "sortOrder" : 1451,
+      "sport" : {
+        "id" : 21,
+        "link" : "/api/v1/sports/21"
+      }
+    }, {
+      "id" : "BAMAXXSGP",
+      "name" : "MiLB.com Class A Best Single-Game Performer",
+      "sortOrder" : 1456,
+      "sport" : {
+        "id" : 21,
+        "link" : "/api/v1/sports/21"
+      }
+    }, {
+      "id" : "BAMAXXBP",
+      "name" : "MiLB.com Class A Breakthrough Performer",
+      "sortOrder" : 1461,
+      "sport" : {
+        "id" : 21,
+        "link" : "/api/v1/sports/21"
+      }
+    }, {
+      "id" : "MILBMSPSS",
+      "name" : "MiLB Most Spectacular Pitcher, Short-Season",
+      "sortOrder" : 1476,
+      "sport" : {
+        "id" : 21,
+        "link" : "/api/v1/sports/21"
+      }
+    }, {
+      "id" : "BAMSSBH",
+      "name" : "MiLB.com Short-Season Best Hitter of the Year",
+      "sortOrder" : 1481,
+      "sport" : {
+        "id" : 21,
+        "link" : "/api/v1/sports/21"
+      }
+    }, {
+      "id" : "BAMSSOP",
+      "name" : "MiLB.com Short-Season Offensive Player of the Year",
+      "sortOrder" : 1486,
+      "sport" : {
+        "id" : 21,
+        "link" : "/api/v1/sports/21"
+      }
+    }, {
+      "id" : "BAMSSSP",
+      "name" : "MiLB.com Short-Season Starting Pitcher of the Year",
+      "sortOrder" : 1491,
+      "sport" : {
+        "id" : 21,
+        "link" : "/api/v1/sports/21"
+      }
+    }, {
+      "id" : "BAMSSRP",
+      "name" : "MiLB.com Short-Season Relief Pitcher of the Year",
+      "sortOrder" : 1496,
+      "sport" : {
+        "id" : 21,
+        "link" : "/api/v1/sports/21"
+      }
+    }, {
+      "id" : "BAMSSPP",
+      "name" : "MiLB.com Short-Season Best Playoff Performer",
+      "sortOrder" : 1501,
+      "sport" : {
+        "id" : 21,
+        "link" : "/api/v1/sports/21"
+      }
+    }, {
+      "id" : "BAMSSSGP",
+      "name" : "MiLB.com Short-Season Best Single-Game Performer",
+      "sortOrder" : 1506,
+      "sport" : {
+        "id" : 21,
+        "link" : "/api/v1/sports/21"
+      }
+    }, {
+      "id" : "BAMSSBP",
+      "name" : "MiLB.com Short-Season Breakthrough Performer",
+      "sortOrder" : 1511,
+      "sport" : {
+        "id" : 21,
+        "link" : "/api/v1/sports/21"
+      }
+    }, {
+      "id" : "BAMMILBSCOFF",
+      "name" : "MiLB.com Staff Choice for Best Offensive Player",
+      "sortOrder" : 1526,
+      "sport" : {
+        "id" : 21,
+        "link" : "/api/v1/sports/21"
+      }
+    }, {
+      "id" : "BAMMILBSCRP",
+      "name" : "MiLB.com Staff Choice for Best Relief Pitcher",
+      "sortOrder" : 1531,
+      "sport" : {
+        "id" : 21,
+        "link" : "/api/v1/sports/21"
+      }
+    }, {
+      "id" : "BAMMILBSCSP",
+      "name" : "MiLB.com Staff Choice for Best Starting Pitcher",
+      "sortOrder" : 1536,
+      "sport" : {
+        "id" : 21,
+        "link" : "/api/v1/sports/21"
+      }
+    }, {
+      "id" : "BAMMILBSCBRK",
+      "name" : "MiLB.com Staff Choice for Breakout Prospect",
+      "sortOrder" : 1541,
+      "sport" : {
+        "id" : 21,
+        "link" : "/api/v1/sports/21"
+      }
+    }, {
+      "id" : "BAMMILBFCOFF",
+      "name" : "MiLB.com Fans' Choice for Best Offensive Player",
+      "sortOrder" : 1546,
+      "sport" : {
+        "id" : 21,
+        "link" : "/api/v1/sports/21"
+      }
+    }, {
+      "id" : "BAMMILBFCRP",
+      "name" : "MiLB.com Fans' Choice for Best Relief Pitcher",
+      "sortOrder" : 1551,
+      "sport" : {
+        "id" : 21,
+        "link" : "/api/v1/sports/21"
+      }
+    }, {
+      "id" : "BAMMILBFCSP",
+      "name" : "MiLB.com Fans' Choice for Best Starting Pitcher",
+      "sortOrder" : 1556,
+      "sport" : {
+        "id" : 21,
+        "link" : "/api/v1/sports/21"
+      }
+    }, {
+      "id" : "BAMMILBFCBRK",
+      "name" : "MiLB.com Fans' Choice for Breakout Prospect",
+      "sortOrder" : 1561,
+      "sport" : {
+        "id" : 21,
+        "link" : "/api/v1/sports/21"
+      }
+    }, {
+      "id" : "TOPAAAAS",
+      "name" : "Topps Triple-A All-Star",
+      "sortOrder" : 1576,
+      "sport" : {
+        "id" : 11,
+        "link" : "/api/v1/sports/11"
+      }
+    }, {
+      "id" : "BAAAAAS",
+      "name" : "Baseball America Triple-A All-Star",
+      "sortOrder" : 1581,
+      "sport" : {
+        "id" : 11,
+        "link" : "/api/v1/sports/11"
+      }
+    }, {
+      "id" : "BAAAXAS",
+      "name" : "Baseball America Double-A All-Star",
+      "sortOrder" : 1586,
+      "sport" : {
+        "id" : 12,
+        "link" : "/api/v1/sports/12"
+      }
+    }, {
+      "id" : "BAHAXXAS",
+      "name" : "Baseball America High Class A All-Star",
+      "sortOrder" : 1591,
+      "sport" : {
+        "id" : 13,
+        "link" : "/api/v1/sports/13"
+      }
+    }, {
+      "id" : "BALAXXAS",
+      "name" : "Baseball America Low Class A All-Star",
+      "sortOrder" : 1596,
+      "sport" : {
+        "id" : 14,
+        "link" : "/api/v1/sports/14"
+      }
+    }, {
+      "id" : "BASSAS",
+      "name" : "Baseball America Short-Season All-Star",
+      "sortOrder" : 1601,
+      "sport" : {
+        "id" : 15,
+        "link" : "/api/v1/sports/15"
+      }
+    }, {
+      "id" : "BAROAS",
+      "name" : "Baseball America Rookie All-Star",
+      "sortOrder" : 1606,
+      "sport" : {
+        "id" : 16,
+        "link" : "/api/v1/sports/16"
+      }
+    }, {
+      "id" : "BADSLAS",
+      "name" : "Baseball America DSL All-Star",
+      "sortOrder" : 1607,
+      "league" : {
+        "id" : 130,
+        "link" : "/api/v1/league/130"
+      }
+    }, {
+      "id" : "MIKECOOL",
+      "name" : "Mike Coolbaugh Award",
+      "sortOrder" : 1611,
+      "sport" : {
+        "id" : 21,
+        "link" : "/api/v1/sports/21"
+      }
+    }, {
+      "id" : "AAACMVP",
+      "name" : "Bobby Murcer Triple-A Championship MVP",
+      "sortOrder" : 1626,
+      "sport" : {
+        "id" : 11,
+        "link" : "/api/v1/sports/11"
+      }
+    }, {
+      "id" : "BTSDMVP",
+      "name" : "Bricktown Showdown Most Valuable Player",
+      "sortOrder" : 1626,
+      "sport" : {
+        "id" : 11,
+        "link" : "/api/v1/sports/11"
+      }
+    }, {
+      "id" : "TNCMVP",
+      "name" : "Triple-A National Championship MVP",
+      "sortOrder" : 1626,
+      "sport" : {
+        "id" : 11,
+        "link" : "/api/v1/sports/11"
+      }
+    }, {
+      "id" : "ILMVPI",
+      "name" : "INT Most Valuable Pitcher",
+      "sortOrder" : 2001,
+      "league" : {
+        "id" : 117,
+        "link" : "/api/v1/league/117"
+      }
+    }, {
+      "id" : "ILROY",
+      "name" : "INT Rookie of the Year",
+      "sortOrder" : 2006,
+      "league" : {
+        "id" : 117,
+        "link" : "/api/v1/league/117"
+      }
+    }, {
+      "id" : "ILMOY",
+      "name" : "INT Manager of the Year",
+      "sortOrder" : 2011,
+      "league" : {
+        "id" : 117,
+        "link" : "/api/v1/league/117"
+      }
+    }, {
+      "id" : "ILSERMVP",
+      "name" : "Series MVP",
+      "description" : "Series MVP",
+      "sortOrder" : 2016,
+      "league" : {
+        "id" : 117,
+        "link" : "/api/v1/league/117"
+      },
+      "notes" : "Series MVP for the International League"
+    }, {
+      "id" : "ILSAS",
+      "name" : "All-Star",
+      "description" : "All-star for the season",
+      "sortOrder" : 2021,
+      "league" : {
+        "id" : 117,
+        "link" : "/api/v1/league/117"
+      },
+      "notes" : "Regular season All-Star for International League"
+    }, {
+      "id" : "ILAS",
+      "name" : "All-Star Game",
+      "description" : "Made roster of all-star team",
+      "sortOrder" : 2026,
+      "league" : {
+        "id" : 117,
+        "link" : "/api/v1/league/117"
+      },
+      "notes" : "Made roster of International League All-Star Team"
+    }, {
+      "id" : "ILMSAS",
+      "name" : "INT Mid-Season All-Star",
+      "sortOrder" : 2031,
+      "league" : {
+        "id" : 117,
+        "link" : "/api/v1/league/117"
+      }
+    }, {
+      "id" : "ILMVP",
+      "name" : "INT Most Valuable Player",
+      "description" : "Season MVP",
+      "sortOrder" : 2036,
+      "league" : {
+        "id" : 117,
+        "link" : "/api/v1/league/117"
+      },
+      "notes" : "Regular Season MVP for the International League"
+    }, {
+      "id" : "INTPOWH",
+      "name" : "INT Player of the Week",
+      "description" : "Player of the week, hitting",
+      "sortOrder" : 2041,
+      "league" : {
+        "id" : 117,
+        "link" : "/api/v1/league/117"
+      },
+      "notes" : "Hitter of the week in the International League"
+    }, {
+      "id" : "ILPSAS",
+      "name" : "INT Post-Season All-Star",
+      "sortOrder" : 2046,
+      "league" : {
+        "id" : 117,
+        "link" : "/api/v1/league/117"
+      }
+    }, {
+      "id" : "INTPOWP",
+      "name" : "INT Pitcher of the Week",
+      "description" : "Player of the week, pitching",
+      "sortOrder" : 2051,
+      "league" : {
+        "id" : 117,
+        "link" : "/api/v1/league/117"
+      },
+      "notes" : "Pitcher of the week in the International League"
+    }, {
+      "id" : "TOPINTPOY",
+      "name" : "Topps INT Player of the Year",
+      "sortOrder" : 2056,
+      "league" : {
+        "id" : 117,
+        "link" : "/api/v1/league/117"
+      }
+    }, {
+      "id" : "ILTOPS",
+      "name" : "Triple-A All-Star Game Top Star, INT",
+      "sortOrder" : 2061,
+      "league" : {
+        "id" : 117,
+        "link" : "/api/v1/league/117"
+      }
+    }, {
+      "id" : "INTPOM",
+      "name" : "MiLB.com INT Player of the Month",
+      "sortOrder" : 2066,
+      "league" : {
+        "id" : 117,
+        "link" : "/api/v1/league/117"
+      }
+    }, {
+      "id" : "PCLMVP",
+      "name" : "PCL Most Valuable Player",
+      "sortOrder" : 2081,
+      "league" : {
+        "id" : 112,
+        "link" : "/api/v1/league/112"
+      }
+    }, {
+      "id" : "PCLPOY",
+      "name" : "PCL Pitcher of the Year",
+      "sortOrder" : 2086,
+      "league" : {
+        "id" : 112,
+        "link" : "/api/v1/league/112"
+      }
+    }, {
+      "id" : "PCLROY",
+      "name" : "PCL Rookie of the Year",
+      "sortOrder" : 2091,
+      "league" : {
+        "id" : 112,
+        "link" : "/api/v1/league/112"
+      }
+    }, {
+      "id" : "PCLMOY",
+      "name" : "PCL Manager of the Year",
+      "sortOrder" : 2096,
+      "league" : {
+        "id" : 112,
+        "link" : "/api/v1/league/112"
+      }
+    }, {
+      "id" : "PCLLCMVP",
+      "name" : "PCL League Championship Most Valuable Player",
+      "sortOrder" : 2101,
+      "league" : {
+        "id" : 112,
+        "link" : "/api/v1/league/112"
+      }
+    }, {
+      "id" : "PCLMSAS",
+      "name" : "PCL Mid-Season All-Star",
+      "sortOrder" : 2106,
+      "league" : {
+        "id" : 112,
+        "link" : "/api/v1/league/112"
+      }
+    }, {
+      "id" : "PCLTOPS",
+      "name" : "Triple-A All-Star Game Top Star, PCL",
+      "sortOrder" : 2111,
+      "league" : {
+        "id" : 112,
+        "link" : "/api/v1/league/112"
+      }
+    }, {
+      "id" : "PCLPOWH",
+      "name" : "PCL Player of the Week",
+      "description" : "Player of the week, hitting",
+      "sortOrder" : 2116,
+      "league" : {
+        "id" : 112,
+        "link" : "/api/v1/league/112"
+      },
+      "notes" : "Hitter of the week in the Pacific Coast League"
+    }, {
+      "id" : "PCLPSAS",
+      "name" : "PCL Post-Season All-Star",
+      "sortOrder" : 2121,
+      "league" : {
+        "id" : 112,
+        "link" : "/api/v1/league/112"
+      }
+    }, {
+      "id" : "PCLPOWP",
+      "name" : "PCL Pitcher of the Week",
+      "description" : "Player of the week, pitching",
+      "sortOrder" : 2126,
+      "league" : {
+        "id" : 112,
+        "link" : "/api/v1/league/112"
+      },
+      "notes" : "Pitcher of the week in the Pacific Coast League"
+    }, {
+      "id" : "TOPPCLPOY",
+      "name" : "Topps PCL Player of the Year",
+      "sortOrder" : 2131,
+      "league" : {
+        "id" : 112,
+        "link" : "/api/v1/league/112"
+      }
+    }, {
+      "id" : "PCLPOM",
+      "name" : "MiLB.com PCL Player of the Month",
+      "sortOrder" : 2136,
+      "league" : {
+        "id" : 112,
+        "link" : "/api/v1/league/112"
+      }
+    }, {
+      "id" : "MEXMVP",
+      "name" : "MEX Most Valuable Player",
+      "sortOrder" : 2151,
+      "league" : {
+        "id" : 125,
+        "link" : "/api/v1/league/125"
+      }
+    }, {
+      "id" : "MEXPOY",
+      "name" : "MEX Pitcher of the Year",
+      "sortOrder" : 2156,
+      "league" : {
+        "id" : 125,
+        "link" : "/api/v1/league/125"
+      }
+    }, {
+      "id" : "MEXREOY",
+      "name" : "MEX Reliever of the Year",
+      "sortOrder" : 2161,
+      "league" : {
+        "id" : 125,
+        "link" : "/api/v1/league/125"
+      }
+    }, {
+      "id" : "MEXMOY",
+      "name" : "MEX Manager of the Year",
+      "sortOrder" : 2166,
+      "league" : {
+        "id" : 125,
+        "link" : "/api/v1/league/125"
+      }
+    }, {
+      "id" : "MEXROY",
+      "name" : "MEX Rookie of the Year",
+      "sortOrder" : 2171,
+      "league" : {
+        "id" : 125,
+        "link" : "/api/v1/league/125"
+      }
+    }, {
+      "id" : "MEXCPOY",
+      "name" : "MEX Comeback Player of the Year",
+      "sortOrder" : 2176,
+      "league" : {
+        "id" : 125,
+        "link" : "/api/v1/league/125"
+      }
+    }, {
+      "id" : "MEXMSAS",
+      "name" : "MEX Mid-Season All-Star",
+      "sortOrder" : 2181,
+      "league" : {
+        "id" : 125,
+        "link" : "/api/v1/league/125"
+      }
+    }, {
+      "id" : "MEXASMVP",
+      "name" : "MEX All-Star Game Most Valuable Player",
+      "sortOrder" : 2186,
+      "league" : {
+        "id" : 125,
+        "link" : "/api/v1/league/125"
+      }
+    }, {
+      "id" : "MEXPSMVP",
+      "name" : "MEX Finals Most Valuable Player",
+      "sortOrder" : 2191,
+      "league" : {
+        "id" : 125,
+        "link" : "/api/v1/league/125"
+      }
+    }, {
+      "id" : "MEXPSAS",
+      "name" : "MEX Post-Season All-Star",
+      "sortOrder" : 2196,
+      "league" : {
+        "id" : 125,
+        "link" : "/api/v1/league/125"
+      }
+    }, {
+      "id" : "TOPAAXAS",
+      "name" : "Topps Double-A All-Star",
+      "sortOrder" : 3001,
+      "sport" : {
+        "id" : 12,
+        "link" : "/api/v1/sports/12"
+      }
+    }, {
+      "id" : "EASPOWH",
+      "name" : "EAS Player of the Week",
+      "description" : "Player of the week, hitting",
+      "sortOrder" : 3006,
+      "league" : {
+        "id" : 113,
+        "link" : "/api/v1/league/113"
+      }
+    }, {
+      "id" : "EASPOWP",
+      "name" : "EAS Pitcher of the Week",
+      "description" : "Player of the week, pitching",
+      "sortOrder" : 3011,
+      "league" : {
+        "id" : 113,
+        "link" : "/api/v1/league/113"
+      }
+    }, {
+      "id" : "ELTOPS",
+      "name" : "EAS All-Star Game Top Star",
+      "sortOrder" : 3016,
+      "league" : {
+        "id" : 113,
+        "link" : "/api/v1/league/113"
+      }
+    }, {
+      "id" : "ELMOY",
+      "name" : "EAS Manager of the Year",
+      "sortOrder" : 3021,
+      "league" : {
+        "id" : 113,
+        "link" : "/api/v1/league/113"
+      }
+    }, {
+      "id" : "ELMSAS",
+      "name" : "EAS Mid-Season All-Star",
+      "sortOrder" : 3026,
+      "league" : {
+        "id" : 113,
+        "link" : "/api/v1/league/113"
+      }
+    }, {
+      "id" : "ELMVP",
+      "name" : "EAS Most Valuable Player",
+      "sortOrder" : 3031,
+      "league" : {
+        "id" : 113,
+        "link" : "/api/v1/league/113"
+      }
+    }, {
+      "id" : "ELPOY",
+      "name" : "EAS Pitcher of the Year",
+      "sortOrder" : 3036,
+      "league" : {
+        "id" : 113,
+        "link" : "/api/v1/league/113"
+      }
+    }, {
+      "id" : "ELPMVP",
+      "name" : "EAS Playoffs Most Valuable Player",
+      "sortOrder" : 3041,
+      "league" : {
+        "id" : 113,
+        "link" : "/api/v1/league/113"
+      }
+    }, {
+      "id" : "ELPSAS",
+      "name" : "EAS Post-Season All-Star",
+      "sortOrder" : 3046,
+      "league" : {
+        "id" : 113,
+        "link" : "/api/v1/league/113"
+      }
+    }, {
+      "id" : "ELROY",
+      "name" : "EAS Rookie of the Year",
+      "sortOrder" : 3051,
+      "league" : {
+        "id" : 113,
+        "link" : "/api/v1/league/113"
+      }
+    }, {
+      "id" : "EASPOM",
+      "name" : "MiLB.com EAS Player of the Month",
+      "sortOrder" : 3056,
+      "league" : {
+        "id" : 113,
+        "link" : "/api/v1/league/113"
+      }
+    }, {
+      "id" : "TOPEASPOY",
+      "name" : "Topps EAS Player of the Year",
+      "sortOrder" : 3061,
+      "league" : {
+        "id" : 113,
+        "link" : "/api/v1/league/113"
+      }
+    }, {
+      "id" : "SOUPOWH",
+      "name" : "SOU Player of the Week",
+      "description" : "Player of the week, hitting",
+      "sortOrder" : 3076,
+      "league" : {
+        "id" : 111,
+        "link" : "/api/v1/league/111"
+      }
+    }, {
+      "id" : "SOUPOWP",
+      "name" : "SOU Pitcher of the Week",
+      "description" : "Player of the week, pitching",
+      "sortOrder" : 3081,
+      "league" : {
+        "id" : 111,
+        "link" : "/api/v1/league/111"
+      }
+    }, {
+      "id" : "SOUAVGTITLE",
+      "name" : "Batting Champion Award",
+      "sortOrder" : 3086,
+      "league" : {
+        "id" : 111,
+        "link" : "/api/v1/league/111"
+      }
+    }, {
+      "id" : "SLTOPS",
+      "name" : "SOU All-Star Game Top Star",
+      "sortOrder" : 3091,
+      "league" : {
+        "id" : 111,
+        "link" : "/api/v1/league/111"
+      }
+    }, {
+      "id" : "SLBHUS",
+      "name" : "SOU Best Hustler",
+      "sortOrder" : 3096,
+      "league" : {
+        "id" : 111,
+        "link" : "/api/v1/league/111"
+      }
+    }, {
+      "id" : "SLBUTL",
+      "name" : "SOU Best Utility Player",
+      "sortOrder" : 3101,
+      "league" : {
+        "id" : 111,
+        "link" : "/api/v1/league/111"
+      }
+    }, {
+      "id" : "SLCSMVP",
+      "name" : "SOU Championship Series Most Valuable Player",
+      "sortOrder" : 3106,
+      "league" : {
+        "id" : 111,
+        "link" : "/api/v1/league/111"
+      }
+    }, {
+      "id" : "SLMOY",
+      "name" : "SOU Manager of the Year",
+      "sortOrder" : 3111,
+      "league" : {
+        "id" : 111,
+        "link" : "/api/v1/league/111"
+      }
+    }, {
+      "id" : "SLMSAS",
+      "name" : "SOU Mid-Season All-Star",
+      "sortOrder" : 3116,
+      "league" : {
+        "id" : 111,
+        "link" : "/api/v1/league/111"
+      }
+    }, {
+      "id" : "SLMOP",
+      "name" : "SOU Most Outstanding Pitcher",
+      "sortOrder" : 3121,
+      "league" : {
+        "id" : 111,
+        "link" : "/api/v1/league/111"
+      }
+    }, {
+      "id" : "SLMVP",
+      "name" : "SOU Most Valuable Player",
+      "sortOrder" : 3126,
+      "league" : {
+        "id" : 111,
+        "link" : "/api/v1/league/111"
+      }
+    }, {
+      "id" : "SLPSAS",
+      "name" : "SOU Post-Season All-Star",
+      "sortOrder" : 3131,
+      "league" : {
+        "id" : 111,
+        "link" : "/api/v1/league/111"
+      }
+    }, {
+      "id" : "SOUERATITLE",
+      "name" : "Southern League ERA Title",
+      "sortOrder" : 3136,
+      "league" : {
+        "id" : 111,
+        "link" : "/api/v1/league/111"
+      }
+    }, {
+      "id" : "SOUPOM",
+      "name" : "MiLB.com SOU Player of the Month",
+      "sortOrder" : 3141,
+      "league" : {
+        "id" : 111,
+        "link" : "/api/v1/league/111"
+      }
+    }, {
+      "id" : "TOPSOUPOY",
+      "name" : "Topps SOU Player of the Year",
+      "sortOrder" : 3146,
+      "league" : {
+        "id" : 111,
+        "link" : "/api/v1/league/111"
+      }
+    }, {
+      "id" : "TEXPOWH",
+      "name" : "TEX Player of the Week",
+      "description" : "Player of the week, hitting",
+      "sortOrder" : 3151,
+      "league" : {
+        "id" : 109,
+        "link" : "/api/v1/league/109"
+      }
+    }, {
+      "id" : "TEXPOWP",
+      "name" : "TEX Pitcher of the Week",
+      "description" : "Player of the week, pitching",
+      "sortOrder" : 3156,
+      "league" : {
+        "id" : 109,
+        "link" : "/api/v1/league/109"
+      }
+    }, {
+      "id" : "TLTOPS",
+      "name" : "TEX All-Star Game Top Star",
+      "sortOrder" : 3161,
+      "league" : {
+        "id" : 109,
+        "link" : "/api/v1/league/109"
+      }
+    }, {
+      "id" : "TLCOY",
+      "name" : "TEX Coach of the Year",
+      "sortOrder" : 3166,
+      "league" : {
+        "id" : 109,
+        "link" : "/api/v1/league/109"
+      }
+    }, {
+      "id" : "TLMOY",
+      "name" : "TEX Manager of the Year",
+      "sortOrder" : 3171,
+      "league" : {
+        "id" : 109,
+        "link" : "/api/v1/league/109"
+      }
+    }, {
+      "id" : "TLMSAS",
+      "name" : "TEX Mid-Season All-Star",
+      "sortOrder" : 3176,
+      "league" : {
+        "id" : 109,
+        "link" : "/api/v1/league/109"
+      }
+    }, {
+      "id" : "TLPIOY",
+      "name" : "TEX Pitcher of the Year",
+      "sortOrder" : 3181,
+      "league" : {
+        "id" : 109,
+        "link" : "/api/v1/league/109"
+      }
+    }, {
+      "id" : "TLPLOY",
+      "name" : "TEX Player of the Year",
+      "sortOrder" : 3186,
+      "league" : {
+        "id" : 109,
+        "link" : "/api/v1/league/109"
+      }
+    }, {
+      "id" : "TLPSAS",
+      "name" : "TEX Post-Season All-Star",
+      "sortOrder" : 3191,
+      "league" : {
+        "id" : 109,
+        "link" : "/api/v1/league/109"
+      }
+    }, {
+      "id" : "TEXPOM",
+      "name" : "MiLB.com TEX Player of the Month",
+      "sortOrder" : 3196,
+      "league" : {
+        "id" : 109,
+        "link" : "/api/v1/league/109"
+      }
+    }, {
+      "id" : "TOPTEXPOY",
+      "name" : "Topps TEX Player of the Year",
+      "sortOrder" : 3201,
+      "league" : {
+        "id" : 109,
+        "link" : "/api/v1/league/109"
+      }
+    }, {
+      "id" : "CALPOWH",
+      "name" : "CAL Player of the Week",
+      "description" : "Player of the week, hitting",
+      "sortOrder" : 4001,
+      "league" : {
+        "id" : 110,
+        "link" : "/api/v1/league/110"
+      }
+    }, {
+      "id" : "CALPOWP",
+      "name" : "CAL Pitcher of the Week",
+      "description" : "Player of the week, pitching",
+      "sortOrder" : 4006,
+      "league" : {
+        "id" : 110,
+        "link" : "/api/v1/league/110"
+      }
+    }, {
+      "id" : "CALTOPS",
+      "name" : "CAL All-Star Game Top Star",
+      "sortOrder" : 4011,
+      "league" : {
+        "id" : 110,
+        "link" : "/api/v1/league/110"
+      }
+    }, {
+      "id" : "CALCSMVP",
+      "name" : "CAL Championship Series Most Valuable Player",
+      "sortOrder" : 4016,
+      "league" : {
+        "id" : 110,
+        "link" : "/api/v1/league/110"
+      }
+    }, {
+      "id" : "CALCOY",
+      "name" : "CAL Coach-of-the-Year",
+      "sortOrder" : 4021,
+      "league" : {
+        "id" : 110,
+        "link" : "/api/v1/league/110"
+      }
+    }, {
+      "id" : "CALMOY",
+      "name" : "CAL Manager-of-the-Year",
+      "sortOrder" : 4026,
+      "league" : {
+        "id" : 110,
+        "link" : "/api/v1/league/110"
+      }
+    }, {
+      "id" : "CALMSAS",
+      "name" : "CAL Mid-Season All-Star",
+      "sortOrder" : 4031,
+      "league" : {
+        "id" : 110,
+        "link" : "/api/v1/league/110"
+      }
+    }, {
+      "id" : "CALMVP",
+      "name" : "CAL Most Valuable Player",
+      "sortOrder" : 4036,
+      "league" : {
+        "id" : 110,
+        "link" : "/api/v1/league/110"
+      }
+    }, {
+      "id" : "CALPOY",
+      "name" : "CAL Pitcher-of-the-Year",
+      "sortOrder" : 4041,
+      "league" : {
+        "id" : 110,
+        "link" : "/api/v1/league/110"
+      }
+    }, {
+      "id" : "CALPSAS",
+      "name" : "CAL Post-Season All-Star",
+      "sortOrder" : 4046,
+      "league" : {
+        "id" : 110,
+        "link" : "/api/v1/league/110"
+      }
+    }, {
+      "id" : "CALROY",
+      "name" : "CAL Rookie-of-the-Year",
+      "sortOrder" : 4051,
+      "league" : {
+        "id" : 110,
+        "link" : "/api/v1/league/110"
+      }
+    }, {
+      "id" : "CALPOM",
+      "name" : "MiLB.com CAL Player of the Month",
+      "sortOrder" : 4056,
+      "league" : {
+        "id" : 110,
+        "link" : "/api/v1/league/110"
+      }
+    }, {
+      "id" : "TOPCALPOY",
+      "name" : "Topps CAL Player of the Year",
+      "sortOrder" : 4061,
+      "league" : {
+        "id" : 110,
+        "link" : "/api/v1/league/110"
+      }
+    }, {
+      "id" : "CARPOWH",
+      "name" : "CAR Player of the Week",
+      "description" : "Player of the week, hitting",
+      "sortOrder" : 4076,
+      "league" : {
+        "id" : 122,
+        "link" : "/api/v1/league/122"
+      }
+    }, {
+      "id" : "CARPOWP",
+      "name" : "CAR Pitcher of the Week",
+      "description" : "Player of the week, pitching",
+      "sortOrder" : 4081,
+      "league" : {
+        "id" : 122,
+        "link" : "/api/v1/league/122"
+      }
+    }, {
+      "id" : "CARTOPS",
+      "name" : "CAR All-Star Game Top Star",
+      "sortOrder" : 4086,
+      "league" : {
+        "id" : 122,
+        "link" : "/api/v1/league/122"
+      }
+    }, {
+      "id" : "CARCSMVP",
+      "name" : "CAR Championship Series Most Valuable Player",
+      "sortOrder" : 4091,
+      "league" : {
+        "id" : 122,
+        "link" : "/api/v1/league/122"
+      }
+    }, {
+      "id" : "CARMOY",
+      "name" : "CAR Manager of the Year",
+      "sortOrder" : 4096,
+      "league" : {
+        "id" : 122,
+        "link" : "/api/v1/league/122"
+      }
+    }, {
+      "id" : "CARMSAS",
+      "name" : "CAR Mid-Season All-Star",
+      "sortOrder" : 4101,
+      "league" : {
+        "id" : 122,
+        "link" : "/api/v1/league/122"
+      }
+    }, {
+      "id" : "CARMVP",
+      "name" : "CAR Most Valuable Player",
+      "sortOrder" : 4106,
+      "league" : {
+        "id" : 122,
+        "link" : "/api/v1/league/122"
+      }
+    }, {
+      "id" : "CARPOY",
+      "name" : "CAR Pitcher of the Year",
+      "sortOrder" : 4111,
+      "league" : {
+        "id" : 122,
+        "link" : "/api/v1/league/122"
+      }
+    }, {
+      "id" : "CARPSAS",
+      "name" : "CAR Post-Season All-Star",
+      "sortOrder" : 4116,
+      "league" : {
+        "id" : 122,
+        "link" : "/api/v1/league/122"
+      }
+    }, {
+      "id" : "POTRPOY",
+      "name" : "Potomac Relief Pitcher of the Year",
+      "sortOrder" : 4121,
+      "league" : {
+        "id" : 122,
+        "link" : "/api/v1/league/122"
+      }
+    }, {
+      "id" : "CARPOM",
+      "name" : "MiLB.com CAR Player of the Month",
+      "sortOrder" : 4126,
+      "league" : {
+        "id" : 122,
+        "link" : "/api/v1/league/122"
+      }
+    }, {
+      "id" : "TOPCARPOY",
+      "name" : "Topps CAR Player of the Year",
+      "sortOrder" : 4131,
+      "league" : {
+        "id" : 122,
+        "link" : "/api/v1/league/122"
+      }
+    }, {
+      "id" : "FSLPOWH",
+      "name" : "FSL Player of the Week",
+      "description" : "Player of the week, hitting",
+      "sortOrder" : 4146,
+      "league" : {
+        "id" : 123,
+        "link" : "/api/v1/league/123"
+      }
+    }, {
+      "id" : "FSLPOWP",
+      "name" : "FSL Pitcher of the Week",
+      "description" : "Player of the week, pitching",
+      "sortOrder" : 4151,
+      "league" : {
+        "id" : 123,
+        "link" : "/api/v1/league/123"
+      }
+    }, {
+      "id" : "FSLTOPS",
+      "name" : "FSL All-Star Game Top Star",
+      "sortOrder" : 4156,
+      "league" : {
+        "id" : 123,
+        "link" : "/api/v1/league/123"
+      }
+    }, {
+      "id" : "FSLCOY",
+      "name" : "FSL Coach of the Year",
+      "sortOrder" : 4161,
+      "league" : {
+        "id" : 123,
+        "link" : "/api/v1/league/123"
+      }
+    }, {
+      "id" : "FSLMOY",
+      "name" : "FSL Manager of the Year",
+      "sortOrder" : 4166,
+      "league" : {
+        "id" : 123,
+        "link" : "/api/v1/league/123"
+      }
+    }, {
+      "id" : "FSLMSAS",
+      "name" : "FSL Mid-Season All-Star",
+      "sortOrder" : 4171,
+      "league" : {
+        "id" : 123,
+        "link" : "/api/v1/league/123"
+      }
+    }, {
+      "id" : "FSLMVPI",
+      "name" : "FSL Most Valuable Pitcher",
+      "sortOrder" : 4176,
+      "league" : {
+        "id" : 123,
+        "link" : "/api/v1/league/123"
+      }
+    }, {
+      "id" : "FSLMVP",
+      "name" : "FSL Most Valuable Player",
+      "sortOrder" : 4181,
+      "league" : {
+        "id" : 123,
+        "link" : "/api/v1/league/123"
+      }
+    }, {
+      "id" : "FSLPSAS",
+      "name" : "FSL Post-Season All-Star",
+      "sortOrder" : 4186,
+      "league" : {
+        "id" : 123,
+        "link" : "/api/v1/league/123"
+      }
+    }, {
+      "id" : "FSLPOM",
+      "name" : "MiLB.com FSL Player of the Month",
+      "sortOrder" : 4191,
+      "league" : {
+        "id" : 123,
+        "link" : "/api/v1/league/123"
+      }
+    }, {
+      "id" : "TOPFSLPOY",
+      "name" : "Topps FSL Player of the Year",
+      "sortOrder" : 4196,
+      "league" : {
+        "id" : 123,
+        "link" : "/api/v1/league/123"
+      }
+    }, {
+      "id" : "TOPAXXAS",
+      "name" : "Topps Class A All-Star",
+      "sortOrder" : 5001
+    }, {
+      "id" : "MIDPOWP",
+      "name" : "MID Pitcher of the Week",
+      "description" : "Player of the week, pitching",
+      "sortOrder" : 5006,
+      "league" : {
+        "id" : 118,
+        "link" : "/api/v1/league/118"
+      }
+    }, {
+      "id" : "MWLTOPS",
+      "name" : "MID All-Star Game Top Star",
+      "sortOrder" : 5011,
+      "league" : {
+        "id" : 118,
+        "link" : "/api/v1/league/118"
+      }
+    }, {
+      "id" : "MWLMOY",
+      "name" : "MID Manager of the Year",
+      "sortOrder" : 5016,
+      "league" : {
+        "id" : 118,
+        "link" : "/api/v1/league/118"
+      }
+    }, {
+      "id" : "MWLMSAS",
+      "name" : "MID Mid-Season All-Star",
+      "sortOrder" : 5021,
+      "league" : {
+        "id" : 118,
+        "link" : "/api/v1/league/118"
+      }
+    }, {
+      "id" : "MWLMVP",
+      "name" : "MID Most Valuable Player",
+      "sortOrder" : 5026,
+      "league" : {
+        "id" : 118,
+        "link" : "/api/v1/league/118"
+      }
+    }, {
+      "id" : "MIDPIOY",
+      "name" : "MID Pitcher of the Year",
+      "sortOrder" : 5031,
+      "league" : {
+        "id" : 118,
+        "link" : "/api/v1/league/118"
+      }
+    }, {
+      "id" : "MIDPOWH",
+      "name" : "MID Player of the Week",
+      "description" : "Player of the week, hitting",
+      "sortOrder" : 5036,
+      "league" : {
+        "id" : 118,
+        "link" : "/api/v1/league/118"
+      }
+    }, {
+      "id" : "MWLPSAS",
+      "name" : "MID Post-Season All-Star",
+      "sortOrder" : 5041,
+      "league" : {
+        "id" : 118,
+        "link" : "/api/v1/league/118"
+      }
+    }, {
+      "id" : "MWLPROY",
+      "name" : "MID Prospect of the Year",
+      "sortOrder" : 5046,
+      "league" : {
+        "id" : 118,
+        "link" : "/api/v1/league/118"
+      }
+    }, {
+      "id" : "MIDPOM",
+      "name" : "MiLB.com MID Player of the Month",
+      "sortOrder" : 5051,
+      "league" : {
+        "id" : 118,
+        "link" : "/api/v1/league/118"
+      }
+    }, {
+      "id" : "TOPMIDPOY",
+      "name" : "Topps MID Player of the Year",
+      "sortOrder" : 5056,
+      "league" : {
+        "id" : 118,
+        "link" : "/api/v1/league/118"
+      }
+    }, {
+      "id" : "SALPOWH",
+      "name" : "SAL Player of the Week",
+      "description" : "Player of the week, hitting",
+      "sortOrder" : 5071,
+      "league" : {
+        "id" : 116,
+        "link" : "/api/v1/league/116"
+      }
+    }, {
+      "id" : "SALPOWP",
+      "name" : "SAL Pitcher of the Week",
+      "description" : "Player of the week, pitching",
+      "sortOrder" : 5076,
+      "league" : {
+        "id" : 116,
+        "link" : "/api/v1/league/116"
+      }
+    }, {
+      "id" : "SALTOPS",
+      "name" : "SAL All-Star Game Top Star",
+      "sortOrder" : 5081,
+      "league" : {
+        "id" : 116,
+        "link" : "/api/v1/league/116"
+      }
+    }, {
+      "id" : "SALCOY",
+      "name" : "SAL Coach of the Year",
+      "sortOrder" : 5086,
+      "league" : {
+        "id" : 116,
+        "link" : "/api/v1/league/116"
+      }
+    }, {
+      "id" : "SALMOY",
+      "name" : "SAL Manager of the Year",
+      "sortOrder" : 5091,
+      "league" : {
+        "id" : 116,
+        "link" : "/api/v1/league/116"
+      }
+    }, {
+      "id" : "SALMSAS",
+      "name" : "SAL Mid-Season All-Star",
+      "sortOrder" : 5096,
+      "league" : {
+        "id" : 116,
+        "link" : "/api/v1/league/116"
+      }
+    }, {
+      "id" : "SALMOMLP",
+      "name" : "SAL Most Outstanding Major League Prospect",
+      "sortOrder" : 5101,
+      "league" : {
+        "id" : 116,
+        "link" : "/api/v1/league/116"
+      }
+    }, {
+      "id" : "SALMOP",
+      "name" : "SAL Most Outstanding Pitcher",
+      "sortOrder" : 5106,
+      "league" : {
+        "id" : 116,
+        "link" : "/api/v1/league/116"
+      }
+    }, {
+      "id" : "SALMVP",
+      "name" : "SAL Most Valuable Player",
+      "sortOrder" : 5111,
+      "league" : {
+        "id" : 116,
+        "link" : "/api/v1/league/116"
+      }
+    }, {
+      "id" : "SALPSAS",
+      "name" : "SAL Post-Season All-Star",
+      "sortOrder" : 5116,
+      "league" : {
+        "id" : 116,
+        "link" : "/api/v1/league/116"
+      }
+    }, {
+      "id" : "SALPOM",
+      "name" : "MiLB.com SAL Player of the Month",
+      "sortOrder" : 5121,
+      "league" : {
+        "id" : 116,
+        "link" : "/api/v1/league/116"
+      }
+    }, {
+      "id" : "TOPSALPOY",
+      "name" : "Topps SAL Player of the Year",
+      "sortOrder" : 5126,
+      "league" : {
+        "id" : 116,
+        "link" : "/api/v1/league/116"
+      }
+    }, {
+      "id" : "TOPROAS",
+      "name" : "Topps Short-Season/Rookie All-Star",
+      "sortOrder" : 6001
+    }, {
+      "id" : "NYPPOWH",
+      "name" : "NYP Player of the Week",
+      "description" : "Player of the week, hitting",
+      "sortOrder" : 6006,
+      "league" : {
+        "id" : 127,
+        "link" : "/api/v1/league/127"
+      }
+    }, {
+      "id" : "NYPPOWP",
+      "name" : "NYP Pitcher of the Week",
+      "description" : "Player of the week, pitching",
+      "sortOrder" : 6011,
+      "league" : {
+        "id" : 127,
+        "link" : "/api/v1/league/127"
+      }
+    }, {
+      "id" : "NYPTOPS",
+      "name" : "NYP All-Star Game Top Star",
+      "sortOrder" : 6016,
+      "league" : {
+        "id" : 127,
+        "link" : "/api/v1/league/127"
+      }
+    }, {
+      "id" : "NYPMOY",
+      "name" : "NYP Manager of the Year",
+      "sortOrder" : 6021,
+      "league" : {
+        "id" : 127,
+        "link" : "/api/v1/league/127"
+      }
+    }, {
+      "id" : "NYPMSAS",
+      "name" : "NYP Mid-Season All-Star",
+      "sortOrder" : 6026,
+      "league" : {
+        "id" : 127,
+        "link" : "/api/v1/league/127"
+      }
+    }, {
+      "id" : "NYPMVP",
+      "name" : "NYP Most Valuable Player",
+      "sortOrder" : 6031,
+      "league" : {
+        "id" : 127,
+        "link" : "/api/v1/league/127"
+      }
+    }, {
+      "id" : "NYPPOM",
+      "name" : "MiLB.com NYP Player of the Month",
+      "sortOrder" : 6036,
+      "league" : {
+        "id" : 127,
+        "link" : "/api/v1/league/127"
+      }
+    }, {
+      "id" : "NYPPSAS",
+      "name" : "NYP Post-Season All-Star",
+      "sortOrder" : 6041,
+      "league" : {
+        "id" : 127,
+        "link" : "/api/v1/league/127"
+      }
+    }, {
+      "id" : "NYPROY",
+      "name" : "NYP Rookie of the Year",
+      "sortOrder" : 6046,
+      "league" : {
+        "id" : 127,
+        "link" : "/api/v1/league/127"
+      }
+    }, {
+      "id" : "TOPNYPPOY",
+      "name" : "Topps NYP Player of the Year",
+      "sortOrder" : 6051,
+      "league" : {
+        "id" : 127,
+        "link" : "/api/v1/league/127"
+      }
+    }, {
+      "id" : "NWLPIOTS",
+      "name" : "NOR/PIO Top Star",
+      "sortOrder" : 6061
+    }, {
+      "id" : "NORPOWH",
+      "name" : "NWL Player of the Week",
+      "description" : "Player of the week, hitting",
+      "sortOrder" : 6066,
+      "league" : {
+        "id" : 126,
+        "link" : "/api/v1/league/126"
+      }
+    }, {
+      "id" : "NORPOWP",
+      "name" : "NWL Pitcher of the Week",
+      "description" : "Player of the week, pitching",
+      "sortOrder" : 6071,
+      "league" : {
+        "id" : 126,
+        "link" : "/api/v1/league/126"
+      }
+    }, {
+      "id" : "NWLMOY",
+      "name" : "NWL Manager of the Year",
+      "sortOrder" : 6076,
+      "league" : {
+        "id" : 126,
+        "link" : "/api/v1/league/126"
+      }
+    }, {
+      "id" : "NORMSAS",
+      "name" : "NWL Mid-Season All-Star",
+      "sortOrder" : 6081,
+      "league" : {
+        "id" : 126,
+        "link" : "/api/v1/league/126"
+      }
+    }, {
+      "id" : "NORTOPS",
+      "name" : "NWL Top Star",
+      "sortOrder" : 6083,
+      "league" : {
+        "id" : 126,
+        "link" : "/api/v1/league/126"
+      }
+    }, {
+      "id" : "NWLMVP",
+      "name" : "NWL Most Valuable Player",
+      "sortOrder" : 6086,
+      "league" : {
+        "id" : 126,
+        "link" : "/api/v1/league/126"
+      }
+    }, {
+      "id" : "NWLPOY",
+      "name" : "NWL Pitcher of the Year",
+      "sortOrder" : 6088,
+      "league" : {
+        "id" : 126,
+        "link" : "/api/v1/league/126"
+      }
+    }, {
+      "id" : "NWLROY",
+      "name" : "NWL Rookie of the Year",
+      "sortOrder" : 6090,
+      "league" : {
+        "id" : 126,
+        "link" : "/api/v1/league/126"
+      }
+    }, {
+      "id" : "NORPOM",
+      "name" : "MiLB.com NWL Player of the Month",
+      "sortOrder" : 6091,
+      "league" : {
+        "id" : 126,
+        "link" : "/api/v1/league/126"
+      }
+    }, {
+      "id" : "NWLPSAS",
+      "name" : "NWL Post-Season All-Star",
+      "sortOrder" : 6096,
+      "league" : {
+        "id" : 126,
+        "link" : "/api/v1/league/126"
+      }
+    }, {
+      "id" : "TOPNORPOY",
+      "name" : "Topps NWL Player of the Year",
+      "sortOrder" : 6101,
+      "league" : {
+        "id" : 126,
+        "link" : "/api/v1/league/126"
+      }
+    }, {
+      "id" : "APPPOWH",
+      "name" : "APP Player of the Week",
+      "description" : "Player of the week, hitting",
+      "sortOrder" : 6116,
+      "league" : {
+        "id" : 120,
+        "link" : "/api/v1/league/120"
+      }
+    }, {
+      "id" : "APPPOWP",
+      "name" : "APP Pitcher of the Week",
+      "description" : "Player of the week, pitching",
+      "sortOrder" : 6121,
+      "league" : {
+        "id" : 120,
+        "link" : "/api/v1/league/120"
+      }
+    }, {
+      "id" : "APPMOY",
+      "name" : "APP Manager of the Year",
+      "sortOrder" : 6126,
+      "league" : {
+        "id" : 120,
+        "link" : "/api/v1/league/120"
+      }
+    }, {
+      "id" : "APPPIOY",
+      "name" : "APP Pitcher of the Year",
+      "sortOrder" : 6131,
+      "league" : {
+        "id" : 120,
+        "link" : "/api/v1/league/120"
+      }
+    }, {
+      "id" : "APPPOM",
+      "name" : "MiLB.com APP Player of the Month",
+      "sortOrder" : 6136,
+      "league" : {
+        "id" : 120,
+        "link" : "/api/v1/league/120"
+      }
+    }, {
+      "id" : "APPPLOY",
+      "name" : "APP Player of the Year",
+      "sortOrder" : 6141,
+      "league" : {
+        "id" : 120,
+        "link" : "/api/v1/league/120"
+      }
+    }, {
+      "id" : "APPPSAS",
+      "name" : "APP Post-Season All-Star",
+      "sortOrder" : 6146,
+      "league" : {
+        "id" : 120,
+        "link" : "/api/v1/league/120"
+      }
+    }, {
+      "id" : "TOPAPPPOY",
+      "name" : "Topps APP Player of the Year",
+      "sortOrder" : 6151,
+      "league" : {
+        "id" : 120,
+        "link" : "/api/v1/league/120"
+      }
+    }, {
+      "id" : "PIOMVP",
+      "name" : "PIO Most Valuable Player",
+      "sortOrder" : 6161,
+      "league" : {
+        "id" : 128,
+        "link" : "/api/v1/league/128"
+      }
+    }, {
+      "id" : "PIOPOY",
+      "name" : "PIO Pitcher of the Year",
+      "sortOrder" : 6171,
+      "league" : {
+        "id" : 128,
+        "link" : "/api/v1/league/128"
+      }
+    }, {
+      "id" : "PIOMOY",
+      "name" : "PIO Manager of the Year",
+      "sortOrder" : 6181,
+      "league" : {
+        "id" : 128,
+        "link" : "/api/v1/league/128"
+      }
+    }, {
+      "id" : "PIOTOPS",
+      "name" : "PIO Top Star",
+      "sortOrder" : 6186,
+      "league" : {
+        "id" : 126,
+        "link" : "/api/v1/league/126"
+      }
+    }, {
+      "id" : "PIOLGAS",
+      "name" : "PIO Mid-Season All-Star",
+      "sortOrder" : 6191,
+      "league" : {
+        "id" : 128,
+        "link" : "/api/v1/league/128"
+      }
+    }, {
+      "id" : "PIOPOWH",
+      "name" : "PIO Player of the Week",
+      "description" : "Player of the week, hitting",
+      "sortOrder" : 6201,
+      "league" : {
+        "id" : 128,
+        "link" : "/api/v1/league/128"
+      }
+    }, {
+      "id" : "PIOPOWP",
+      "name" : "PIO Pitcher of the Week",
+      "description" : "Player of the week, pitching",
+      "sortOrder" : 6211,
+      "league" : {
+        "id" : 128,
+        "link" : "/api/v1/league/128"
+      }
+    }, {
+      "id" : "TOPPIOPOY",
+      "name" : "Topps PIO Player of the Year",
+      "sortOrder" : 6221,
+      "league" : {
+        "id" : 128,
+        "link" : "/api/v1/league/128"
+      }
+    }, {
+      "id" : "PIOPSAS",
+      "name" : "PIO Post-Season All-Star",
+      "sortOrder" : 6231,
+      "league" : {
+        "id" : 128,
+        "link" : "/api/v1/league/128"
+      }
+    }, {
+      "id" : "PIOPOM",
+      "name" : "MiLB.com PIO Player of the Month",
+      "sortOrder" : 6241,
+      "league" : {
+        "id" : 128,
+        "link" : "/api/v1/league/128"
+      }
+    }, {
+      "id" : "AZLMOY",
+      "name" : "AZL Manager of the Year",
+      "sortOrder" : 6251,
+      "league" : {
+        "id" : 121,
+        "link" : "/api/v1/league/121"
+      }
+    }, {
+      "id" : "AZLMVP",
+      "name" : "AZL Most Valuable Player",
+      "sortOrder" : 6261,
+      "league" : {
+        "id" : 121,
+        "link" : "/api/v1/league/121"
+      }
+    }, {
+      "id" : "AZLPOM",
+      "name" : "MiLB.com AZL Player of the Month",
+      "sortOrder" : 6271,
+      "league" : {
+        "id" : 121,
+        "link" : "/api/v1/league/121"
+      }
+    }, {
+      "id" : "AZLPSAS",
+      "name" : "AZL Post-Season All-Star",
+      "sortOrder" : 6281,
+      "league" : {
+        "id" : 121,
+        "link" : "/api/v1/league/121"
+      }
+    }, {
+      "id" : "TOPAZLPOY",
+      "name" : "Topps AZL Player of the Year",
+      "sortOrder" : 6291,
+      "league" : {
+        "id" : 121,
+        "link" : "/api/v1/league/121"
+      }
+    }, {
+      "id" : "DSLMOY",
+      "name" : "DSL Manager of the Year",
+      "sortOrder" : 6301,
+      "league" : {
+        "id" : 130,
+        "link" : "/api/v1/league/130"
+      }
+    }, {
+      "id" : "DSLMSAS",
+      "name" : "DSL Mid-Season All-Star",
+      "sortOrder" : 6311,
+      "league" : {
+        "id" : 130,
+        "link" : "/api/v1/league/130"
+      }
+    }, {
+      "id" : "DSLMVP",
+      "name" : "DSL Most Valuable Player",
+      "sortOrder" : 6321,
+      "league" : {
+        "id" : 130,
+        "link" : "/api/v1/league/130"
+      }
+    }, {
+      "id" : "DSLPOY",
+      "name" : "DSL Pitcher of the Year",
+      "sortOrder" : 6331,
+      "league" : {
+        "id" : 130,
+        "link" : "/api/v1/league/130"
+      }
+    }, {
+      "id" : "DSLPSAS",
+      "name" : "DSL Post-Season All-Star",
+      "sortOrder" : 6341,
+      "league" : {
+        "id" : 130,
+        "link" : "/api/v1/league/130"
+      }
+    }, {
+      "id" : "GCLMOY",
+      "name" : "GCL Manager of the Year",
+      "sortOrder" : 6351,
+      "league" : {
+        "id" : 124,
+        "link" : "/api/v1/league/124"
+      }
+    }, {
+      "id" : "GCLMVP",
+      "name" : "GCL Most Valuable Player",
+      "sortOrder" : 6361,
+      "league" : {
+        "id" : 124,
+        "link" : "/api/v1/league/124"
+      }
+    }, {
+      "id" : "GCLPOM",
+      "name" : "MiLB.com GCL Player of the Month",
+      "sortOrder" : 6371,
+      "league" : {
+        "id" : 124,
+        "link" : "/api/v1/league/124"
+      }
+    }, {
+      "id" : "GCLPSAS",
+      "name" : "GCL Post-Season All-Star",
+      "sortOrder" : 6381,
+      "league" : {
+        "id" : 124,
+        "link" : "/api/v1/league/124"
+      }
+    }, {
+      "id" : "TOPGCLPOY",
+      "name" : "Topps GCL Player of the Year",
+      "sortOrder" : 6391,
+      "league" : {
+        "id" : 124,
+        "link" : "/api/v1/league/124"
+      }
+    }, {
+      "id" : "VSLCMVP",
+      "name" : "VSL Championship Most Valuable Player",
+      "sortOrder" : 6401,
+      "league" : {
+        "id" : 134,
+        "link" : "/api/v1/league/134"
+      }
+    }, {
+      "id" : "VSLMVPI",
+      "name" : "VSL Most Valuable Pitcher",
+      "sortOrder" : 6411,
+      "league" : {
+        "id" : 134,
+        "link" : "/api/v1/league/134"
+      }
+    }, {
+      "id" : "VSLMVP",
+      "name" : "VSL Most Valuable Player",
+      "sortOrder" : 6421,
+      "league" : {
+        "id" : 134,
+        "link" : "/api/v1/league/134"
+      }
+    }, {
+      "id" : "VSLPSAS",
+      "name" : "VSL Post-Season All-Star",
+      "sortOrder" : 6431,
+      "league" : {
+        "id" : 134,
+        "link" : "/api/v1/league/134"
+      }
+    }, {
+      "id" : "CSAS",
+      "name" : "Caribbean Series All-Star",
+      "sortOrder" : 7001,
+      "league" : {
+        "id" : 162,
+        "link" : "/api/v1/league/162"
+      }
+    }, {
+      "id" : "CSMOY",
+      "name" : "Caribbean Series Manager of the Year",
+      "sortOrder" : 7006,
+      "league" : {
+        "id" : 162,
+        "link" : "/api/v1/league/162"
+      }
+    }, {
+      "id" : "CSMVP",
+      "name" : "Caribbean Series MVP",
+      "sortOrder" : 7011,
+      "league" : {
+        "id" : 162,
+        "link" : "/api/v1/league/162"
+      }
+    }, {
+      "id" : "DWLMOY",
+      "name" : "DWL Manager of the Year",
+      "sortOrder" : 7026,
+      "league" : {
+        "id" : 131,
+        "link" : "/api/v1/league/131"
+      }
+    }, {
+      "id" : "DWLMVP",
+      "name" : "DWL Most Valuable Player",
+      "sortOrder" : 7031,
+      "league" : {
+        "id" : 131,
+        "link" : "/api/v1/league/131"
+      }
+    }, {
+      "id" : "DWLPOY",
+      "name" : "DWL Pitcher of the Year",
+      "sortOrder" : 7036,
+      "league" : {
+        "id" : 131,
+        "link" : "/api/v1/league/131"
+      }
+    }, {
+      "id" : "DWLROY",
+      "name" : "DWL Rookie of the Year",
+      "sortOrder" : 7041,
+      "league" : {
+        "id" : 131,
+        "link" : "/api/v1/league/131"
+      }
+    }, {
+      "id" : "PWLCPOY",
+      "name" : "PWL Comeback Player of the Year",
+      "sortOrder" : 7056,
+      "league" : {
+        "id" : 133,
+        "link" : "/api/v1/league/133"
+      }
+    }, {
+      "id" : "PWLFMVP",
+      "name" : "PWL Finals Most Valuable Player",
+      "sortOrder" : 7061,
+      "league" : {
+        "id" : 133,
+        "link" : "/api/v1/league/133"
+      }
+    }, {
+      "id" : "PWLMOY",
+      "name" : "PWL Manager of the Year",
+      "sortOrder" : 7066,
+      "league" : {
+        "id" : 133,
+        "link" : "/api/v1/league/133"
+      }
+    }, {
+      "id" : "PWLMVP",
+      "name" : "PWL Most Valuable Player",
+      "sortOrder" : 7071,
+      "league" : {
+        "id" : 133,
+        "link" : "/api/v1/league/133"
+      }
+    }, {
+      "id" : "PWLPOY",
+      "name" : "PWL Pitcher of the Year",
+      "sortOrder" : 7076,
+      "league" : {
+        "id" : 133,
+        "link" : "/api/v1/league/133"
+      }
+    }, {
+      "id" : "PWLPSAS",
+      "name" : "PWL Post-Season All-Star",
+      "sortOrder" : 7081,
+      "league" : {
+        "id" : 133,
+        "link" : "/api/v1/league/133"
+      }
+    }, {
+      "id" : "PWLROY",
+      "name" : "PWL Rookie of the Year",
+      "sortOrder" : 7086,
+      "league" : {
+        "id" : 133,
+        "link" : "/api/v1/league/133"
+      }
+    }, {
+      "id" : "LMPMOY",
+      "name" : "Mexican Pacific League Manager of the year",
+      "sortOrder" : 7101,
+      "league" : {
+        "id" : 132,
+        "link" : "/api/v1/league/132"
+      }
+    }, {
+      "id" : "LMPMVP",
+      "name" : "Mexican Pacific League MVP",
+      "sortOrder" : 7106,
+      "league" : {
+        "id" : 132,
+        "link" : "/api/v1/league/132"
+      }
+    }, {
+      "id" : "LMPPOY",
+      "name" : "Mexican Pacific League Pitcher of the year",
+      "sortOrder" : 7111,
+      "league" : {
+        "id" : 132,
+        "link" : "/api/v1/league/132"
+      }
+    }, {
+      "id" : "LMPROY",
+      "name" : "Mexican Pacific League Rookie of the year",
+      "sortOrder" : 7116,
+      "league" : {
+        "id" : 132,
+        "link" : "/api/v1/league/132"
+      }
+    }, {
+      "id" : "LMPFMVP",
+      "name" : "Mexican Pacific League Finals MVP",
+      "sortOrder" : 7125,
+      "league" : {
+        "id" : 132,
+        "link" : "/api/v1/league/132"
+      }
+    }, {
+      "id" : "VWLCOY",
+      "name" : "VWL Closer of the Year",
+      "sortOrder" : 7131,
+      "league" : {
+        "id" : 135,
+        "link" : "/api/v1/league/135"
+      }
+    }, {
+      "id" : "VWLCPOY",
+      "name" : "VWL Comeback Player of the Year",
+      "sortOrder" : 7136,
+      "league" : {
+        "id" : 135,
+        "link" : "/api/v1/league/135"
+      }
+    }, {
+      "id" : "VWLMOY",
+      "name" : "VWL Manager of the Year",
+      "sortOrder" : 7141,
+      "league" : {
+        "id" : 135,
+        "link" : "/api/v1/league/135"
+      }
+    }, {
+      "id" : "VWLMVP",
+      "name" : "VWL Most Valuable Player",
+      "sortOrder" : 7146,
+      "league" : {
+        "id" : 135,
+        "link" : "/api/v1/league/135"
+      }
+    }, {
+      "id" : "VWLOPOY",
+      "name" : "VWL Offensive Player of the Year",
+      "sortOrder" : 7151,
+      "league" : {
+        "id" : 135,
+        "link" : "/api/v1/league/135"
+      }
+    }, {
+      "id" : "VWLPOY",
+      "name" : "VWL Pitcher of the Year",
+      "sortOrder" : 7156,
+      "league" : {
+        "id" : 135,
+        "link" : "/api/v1/league/135"
+      }
+    }, {
+      "id" : "VWLRLOY",
+      "name" : "VWL Reliever of the Year",
+      "sortOrder" : 7161,
+      "league" : {
+        "id" : 135,
+        "link" : "/api/v1/league/135"
+      }
+    }, {
+      "id" : "VWLROY",
+      "name" : "VWL Rookie of the Year",
+      "sortOrder" : 7166,
+      "league" : {
+        "id" : 135,
+        "link" : "/api/v1/league/135"
+      }
+    }, {
+      "id" : "HWBDPOY",
+      "name" : "HWB Defensive Player of the Year",
+      "sortOrder" : 7181,
+      "league" : {
+        "id" : 405,
+        "link" : "/api/v1/league/405"
+      }
+    }, {
+      "id" : "HWBMVP",
+      "name" : "HWB Most Valuable Player",
+      "sortOrder" : 7186,
+      "league" : {
+        "id" : 405,
+        "link" : "/api/v1/league/405"
+      }
+    }, {
+      "id" : "HWBOPOY",
+      "name" : "HWB Offensive Player of the Year",
+      "sortOrder" : 7191,
+      "league" : {
+        "id" : 405,
+        "link" : "/api/v1/league/405"
+      }
+    }, {
+      "id" : "HWBPOWP",
+      "name" : "HWB Pitcher of the Week",
+      "description" : "Player of the week, pitching",
+      "sortOrder" : 7196,
+      "league" : {
+        "id" : 405,
+        "link" : "/api/v1/league/405"
+      }
+    }, {
+      "id" : "HWBPOY",
+      "name" : "HWB Pitcher of the Year",
+      "sortOrder" : 7201,
+      "league" : {
+        "id" : 405,
+        "link" : "/api/v1/league/405"
+      }
+    }, {
+      "id" : "HWBPOWH",
+      "name" : "HWB Player of the Week",
+      "description" : "Player of the week, hitting",
+      "sortOrder" : 7206,
+      "league" : {
+        "id" : 405,
+        "link" : "/api/v1/league/405"
+      }
+    }, {
+      "id" : "HWBPSAS",
+      "name" : "HWB Post-Season All-Star",
+      "sortOrder" : 7211,
+      "league" : {
+        "id" : 405,
+        "link" : "/api/v1/league/405"
+      }
+    }, {
+      "id" : "ALPBPLOY",
+      "name" : "ALPB Player the Year",
+      "sortOrder" : 7301,
+      "league" : {
+        "id" : 436,
+        "link" : "/api/v1/league/436"
+      }
+    }, {
+      "id" : "ALPBPIOY",
+      "name" : "ALPB Pitcher the Year",
+      "sortOrder" : 7311,
+      "league" : {
+        "id" : 436,
+        "link" : "/api/v1/league/436"
+      }
+    }, {
+      "id" : "ALPBMOY",
+      "name" : "ALPB Manager the Year",
+      "sortOrder" : 7321,
+      "league" : {
+        "id" : 436,
+        "link" : "/api/v1/league/436"
+      }
+    }, {
+      "id" : "ALPBMSAS",
+      "name" : "ALPB Mid-Season All-Star",
+      "sortOrder" : 7331,
+      "league" : {
+        "id" : 436,
+        "link" : "/api/v1/league/436"
+      }
+    }, {
+      "id" : "ALPBPLOM",
+      "name" : "ALPB Player of the Month",
+      "sortOrder" : 7341,
+      "league" : {
+        "id" : 436,
+        "link" : "/api/v1/league/436"
+      }
+    }, {
+      "id" : "ALPBPIOM",
+      "name" : "ALPB Pitcher of the Month",
+      "sortOrder" : 7351,
+      "league" : {
+        "id" : 436,
+        "link" : "/api/v1/league/436"
+      }
+    }, {
+      "id" : "ALPBEOSAS",
+      "name" : "ALPB End-of-Season All-Star",
+      "sortOrder" : 7361,
+      "league" : {
+        "id" : 436,
+        "link" : "/api/v1/league/436"
+      }
+    }, {
+      "id" : "ALPBGG",
+      "name" : "ALPB Rawlings Gold Glove Defensive Player of the Year",
+      "sortOrder" : 7371,
+      "league" : {
+        "id" : 436,
+        "link" : "/api/v1/league/436"
+      }
+    } ]
+  }
