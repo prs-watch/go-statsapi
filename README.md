@@ -38,3 +38,7 @@ go get github.com/prs-watch/go-statsapi
     - get recipients by award you pass as method param.
 - `statsapi.Divisions()`
     - get list of MLB and MiLB divisions.
+- `statsapi.Roster()`
+    - get team roster.
+- `statsapi.BoxScore()`
+    - get specific game boxscore.
