@@ -50,6 +50,25 @@ func TestDivisions(t *testing.T) {
 	assert.JSONEq(t, result, ans)
 }
 
+func TestRoster(t *testing.T) {
+	params := new(Params)
+	params.Season = "2019"
+	result, _ := Roster("143", params)
+
+	ans := readAnswer("testdata/roster_ans.json")
+
+	assert.JSONEq(t, result, ans)
+}
+
+func TestBoxScore(t *testing.T) {
+	params := new(Params)
+	result, _ := BoxScore("529572", params)
+
+	ans := readAnswer("testdata/boxscore_ans.json")
+
+	assert.JSONEq(t, result, ans)
+}
+
 // Util function to read answer JSON.
 func readAnswer(filePath string) (body string) {
 	file, _ := os.Open(filePath)
