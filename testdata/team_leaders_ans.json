@@ -1,0 +1,126 @@
+{
+  "copyright" : "Copyright 2020 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "teamLeaders" : [ {
+    "leaderCategory" : "earnedRunAverage",
+    "season" : "2019",
+    "gameType" : {
+      "id" : "R",
+      "description" : "Regular Season"
+    },
+    "leaders" : [ {
+      "rank" : 1,
+      "value" : "3.87",
+      "team" : {
+        "id" : 143,
+        "name" : "Philadelphia Phillies",
+        "link" : "/api/v1/teams/143"
+      },
+      "league" : {
+        "id" : 104,
+        "name" : "NL",
+        "link" : "/api/v1/league/104"
+      },
+      "person" : {
+        "id" : 605400,
+        "fullName" : "Aaron Nola",
+        "link" : "/api/v1/people/605400",
+        "lastName" : "Nola"
+      },
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1",
+        "abbreviation" : "MLB"
+      },
+      "season" : "2019"
+    }, {
+      "rank" : 2,
+      "value" : "4.13",
+      "team" : {
+        "id" : 143,
+        "name" : "Philadelphia Phillies",
+        "link" : "/api/v1/teams/143"
+      },
+      "league" : {
+        "id" : 104,
+        "name" : "NL",
+        "link" : "/api/v1/league/104"
+      },
+      "person" : {
+        "id" : 621107,
+        "fullName" : "Zach Eflin",
+        "link" : "/api/v1/people/621107",
+        "lastName" : "Eflin"
+      },
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1",
+        "abbreviation" : "MLB"
+      },
+      "season" : "2019"
+    } ],
+    "statGroup" : "pitching",
+    "team" : {
+      "id" : 143,
+      "name" : "Philadelphia Phillies",
+      "link" : "/api/v1/teams/143"
+    },
+    "totalSplits" : 2
+  }, {
+    "leaderCategory" : "earnedRunAverage",
+    "season" : "2019",
+    "gameType" : {
+      "id" : "R",
+      "description" : "Regular Season"
+    },
+    "leaders" : [ {
+      "rank" : 1,
+      "value" : "3.71",
+      "team" : {
+        "id" : 143,
+        "name" : "Philadelphia Phillies",
+        "link" : "/api/v1/teams/143"
+      },
+      "person" : {
+        "id" : 620453,
+        "fullName" : "Grullon, Deivy",
+        "link" : "/api/v1/people/620453"
+      },
+      "season" : "2019"
+    }, {
+      "rank" : 2,
+      "value" : "4.24",
+      "team" : {
+        "id" : 143,
+        "name" : "Philadelphia Phillies",
+        "link" : "/api/v1/teams/143"
+      },
+      "person" : {
+        "id" : 595284,
+        "fullName" : "Knapp, Andrew",
+        "link" : "/api/v1/people/595284"
+      },
+      "season" : "2019"
+    }, {
+      "rank" : 3,
+      "value" : "4.62",
+      "team" : {
+        "id" : 143,
+        "name" : "Philadelphia Phillies",
+        "link" : "/api/v1/teams/143"
+      },
+      "person" : {
+        "id" : 592663,
+        "fullName" : "Realmuto, J.T.",
+        "link" : "/api/v1/people/592663"
+      },
+      "season" : "2019"
+    } ],
+    "statGroup" : "catching",
+    "team" : {
+      "id" : 143,
+      "name" : "Philadelphia Phillies",
+      "link" : "/api/v1/teams/143"
+    },
+    "totalSplits" : 3
+  } ]
+}
