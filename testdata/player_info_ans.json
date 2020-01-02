@@ -1,0 +1,51 @@
+{
+  "copyright" : "Copyright 2020 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "people" : [ {
+    "id" : 547943,
+    "fullName" : "Hyun-Jin Ryu",
+    "link" : "/api/v1/people/547943",
+    "firstName" : "Hyun-Jin",
+    "lastName" : "Ryu",
+    "primaryNumber" : "99",
+    "birthDate" : "1987-03-25",
+    "currentAge" : 32,
+    "birthCity" : "Incheon",
+    "birthCountry" : "South Korea",
+    "height" : "6' 3",
+    "weight" : 255,
+    "active" : true,
+    "primaryPosition" : {
+      "code" : "1",
+      "name" : "Pitcher",
+      "type" : "Pitcher",
+      "abbreviation" : "P"
+    },
+    "useName" : "Hyun-Jin",
+    "boxscoreName" : "Ryu",
+    "nickName" : "Monster",
+    "gender" : "M",
+    "isPlayer" : true,
+    "isVerified" : true,
+    "pronunciation" : "hee-YUHN jin ree-YOO",
+    "mlbDebutDate" : "2013-04-02",
+    "batSide" : {
+      "code" : "R",
+      "description" : "Right"
+
+    },
+    "pitchHand" : {
+      "code" : "L",
+      "description" : "Left"
+    },
+    "nameFirstLast" : "Hyun-Jin Ryu",
+    "nameSlug" : "hyun-jin-ryu-547943",
+    "firstLastName" : "Hyun-Jin Ryu",
+    "lastFirstName" : "Ryu, Hyun-Jin",
+    "lastInitName" : "Ryu, H",
+    "initLastName" : "H Ryu",
+    "fullFMLName" : "Hyun-Jin Ryu",
+    "fullLFMName" : "Ryu, Hyun-Jin",
+    "strikeZoneTop" : 3.53,
+    "strikeZoneBottom" : 1.61
+  } ]
+}

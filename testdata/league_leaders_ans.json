@@ -1,0 +1,219 @@
+{
+  "copyright" : "Copyright 2020 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "leagueLeaders" : [ {
+    "leaderCategory" : "earnedRunAverage",
+    "season" : "2019",
+    "gameType" : {
+      "id" : "R",
+      "description" : "Regular Season"
+    },
+    "leaders" : [ {
+      "rank" : 1,
+      "value" : "2.32",
+      "team" : {
+        "id" : 119,
+        "name" : "Los Angeles Dodgers",
+        "link" : "/api/v1/teams/119"
+      },
+      "league" : {
+        "id" : 104,
+        "name" : "NL",
+        "link" : "/api/v1/league/104"
+      },
+      "person" : {
+        "id" : 547943,
+        "fullName" : "Hyun-Jin Ryu",
+        "link" : "/api/v1/people/547943",
+        "lastName" : "Ryu"
+      },
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1",
+        "abbreviation" : "MLB"
+      },
+      "season" : "2019"
+    }, {
+      "rank" : 2,
+      "value" : "2.43",
+      "team" : {
+        "id" : 121,
+        "name" : "New York Mets",
+        "link" : "/api/v1/teams/121"
+      },
+      "league" : {
+        "id" : 104,
+        "name" : "NL",
+        "link" : "/api/v1/league/104"
+      },
+      "person" : {
+        "id" : 594798,
+        "fullName" : "Jacob deGrom",
+        "link" : "/api/v1/people/594798",
+        "lastName" : "deGrom"
+      },
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1",
+        "abbreviation" : "MLB"
+      },
+      "season" : "2019"
+    }, {
+      "rank" : 3,
+      "value" : "2.50",
+      "team" : {
+        "id" : 117,
+        "name" : "Houston Astros",
+        "link" : "/api/v1/teams/117"
+      },
+      "league" : {
+        "id" : 103,
+        "name" : "AL",
+        "link" : "/api/v1/league/103"
+      },
+      "person" : {
+        "id" : 543037,
+        "fullName" : "Gerrit Cole",
+        "link" : "/api/v1/people/543037",
+        "lastName" : "Cole"
+      },
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1",
+        "abbreviation" : "MLB"
+      },
+      "season" : "2019"
+    }, {
+      "rank" : 4,
+      "value" : "2.58",
+      "team" : {
+        "id" : 117,
+        "name" : "Houston Astros",
+        "link" : "/api/v1/teams/117"
+      },
+      "league" : {
+        "id" : 103,
+        "name" : "AL",
+        "link" : "/api/v1/league/103"
+      },
+      "person" : {
+        "id" : 434378,
+        "fullName" : "Justin Verlander",
+        "link" : "/api/v1/people/434378",
+        "lastName" : "Verlander"
+      },
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1",
+        "abbreviation" : "MLB"
+      },
+      "season" : "2019"
+    }, {
+      "rank" : 5,
+      "value" : "2.68",
+      "team" : {
+        "id" : 144,
+        "name" : "Atlanta Braves",
+        "link" : "/api/v1/teams/144"
+      },
+      "league" : {
+        "id" : 104,
+        "name" : "NL",
+        "link" : "/api/v1/league/104"
+      },
+      "person" : {
+        "id" : 647336,
+        "fullName" : "Mike Soroka",
+        "link" : "/api/v1/people/647336",
+        "lastName" : "Soroka"
+      },
+      "sport" : {
+        "id" : 1,
+        "link" : "/api/v1/sports/1",
+        "abbreviation" : "MLB"
+      },
+      "season" : "2019"
+    } ],
+    "statGroup" : "pitching",
+    "totalSplits" : 61
+  }, {
+    "leaderCategory" : "earnedRunAverage",
+    "season" : "2019",
+    "gameType" : {
+      "id" : "R",
+      "description" : "Regular Season"
+    },
+    "leaders" : [ {
+      "rank" : 1,
+      "value" : "0.00",
+      "team" : {
+        "id" : 112,
+        "name" : "Chicago Cubs",
+        "link" : "/api/v1/teams/112"
+      },
+      "person" : {
+        "id" : 656941,
+        "fullName" : "Schwarber, Kyle",
+        "link" : "/api/v1/people/656941"
+      },
+      "season" : "2019"
+    }, {
+      "rank" : 1,
+      "value" : "0.00",
+      "team" : {
+        "id" : 158,
+        "name" : "Milwaukee Brewers",
+        "link" : "/api/v1/teams/158"
+      },
+      "person" : {
+        "id" : 641924,
+        "fullName" : "Nottingham, Jacob",
+        "link" : "/api/v1/people/641924"
+      },
+      "season" : "2019"
+    }, {
+      "rank" : 1,
+      "value" : "0.00",
+      "team" : {
+        "id" : 120,
+        "name" : "Washington Nationals",
+        "link" : "/api/v1/teams/120"
+      },
+      "person" : {
+        "id" : 668663,
+        "fullName" : "Barrera, Tres",
+        "link" : "/api/v1/people/668663"
+      },
+      "season" : "2019"
+    }, {
+      "rank" : 4,
+      "value" : "1.69",
+      "team" : {
+        "id" : 139,
+        "name" : "Tampa Bay Rays",
+        "link" : "/api/v1/teams/139"
+      },
+      "person" : {
+        "id" : 621532,
+        "fullName" : "Bemboom, Anthony",
+        "link" : "/api/v1/people/621532"
+      },
+      "season" : "2019"
+    }, {
+      "rank" : 5,
+      "value" : "2.14",
+      "team" : {
+        "id" : 139,
+        "name" : "Tampa Bay Rays",
+        "link" : "/api/v1/teams/139"
+      },
+      "person" : {
+        "id" : 456124,
+        "fullName" : "Kratz, Erik",
+        "link" : "/api/v1/people/456124"
+      },
+      "season" : "2019"
+    } ],
+    "statGroup" : "catching",
+    "totalSplits" : 124
+  } ]
+}
